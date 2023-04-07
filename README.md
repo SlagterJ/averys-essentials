@@ -1,4 +1,4 @@
-# Avery's Essentials
+![Avery's Essentials Logo Banner](./host/banner-main.png "Avery's Essentials")
 
 Hi, this is Avery's Essentials, a modpack I've made that meets all of my personal necessities because no other modpack could.
 It includes performance mods, Optifine replacement mods and technical mods.
