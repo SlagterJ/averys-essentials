@@ -1,0 +1,13 @@
+name = "Pistorder"
+filename = "pistorder-mc1.19.4-rc2-v1.5.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "406f11530467e30cb3f51472ec013c5d16a19098"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4437173
+project-id = 430118

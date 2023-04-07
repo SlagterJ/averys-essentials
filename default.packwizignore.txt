@@ -1,0 +1,2 @@
+# add this file to every version of the modpack folders as .packwizignore
+../../.packwizignore

@@ -1,0 +1,13 @@
+name = "Carpet TCTC Addition"
+filename = "CarpetTCTCAddition-2.1.186+e3f38c5-stable.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22d33b8f1b5e0b0089c562825156557f63d0759d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4455037
+project-id = 513524
