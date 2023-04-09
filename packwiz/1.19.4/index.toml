@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-sky-additions.pw.toml"
-hash = "871fbb5db28a3a95da2e262756208d7736f9e2f8220c7f39df5a1b3c77f9197f"
+hash = "734da80b30409a27c62df216b5dd06405ce1e3822fe373e015f648d26e4dff0c"
 metafile = true
 
 [[files]]
@@ -368,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "a074a90572d74118204b29e8a31059670fb2e2f75c8732ddf7325fca6e594135"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "d799514da5ff96ba3428bf223beeaff46962fe1783a98fc6a3848bbde7d38ba5"
 metafile = true
 
 [[files]]
