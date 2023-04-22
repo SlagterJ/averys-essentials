@@ -93,10 +93,6 @@ file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "b8a7701cd89a3057ec4773f811090171ff4a3117e93dae3538dab5c9898a2586"
 
 [[files]]
-file = "config/yosbr/config/itemswapper.json"
-hash = "0106af00ffefeb22427e61a8e4463582aca424401c5608ecd46bc1371907ec70"
-
-[[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
 hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
 
