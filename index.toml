@@ -65,6 +65,16 @@ hash = "f717f9152cc683cf3148c299ff512a47495d46ee0ab3c36e5d891a4e64cb05df"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "e3ca186b116bd65d49fb0db709a1b37d303318e3afb2e06bc662313b53346d06"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "c9354f82fc22ce663be8eb83fe9529ae1ddf59c1b4c68ee87ebcafbae0bee91c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
