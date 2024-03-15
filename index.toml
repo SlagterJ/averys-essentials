@@ -220,6 +220,11 @@ hash = "5db239b544cde5a3b02418c239b72e16be00b2522abe94c6caabc37864ebab9a"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "1f64a0fd8804d7b38014217269964ef7ff41c146b2d4660614390bf4703d0b72"
 metafile = true
