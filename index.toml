@@ -40,6 +40,11 @@ hash = "a44e6eac50227e4346d507836214f8ec462e74a264307253ec19bd3343ad0c7f"
 metafile = true
 
 [[files]]
+file = "mods/caxton.pw.toml"
+hash = "f717f9152cc683cf3148c299ff512a47495d46ee0ab3c36e5d891a4e64cb05df"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
