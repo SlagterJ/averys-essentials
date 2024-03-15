@@ -100,8 +100,23 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "122035a5e885c8c784fc36fc5ea58b31f6f8f67fbb44d4d0695b2edae207ebc2"
+metafile = true
+
+[[files]]
+file = "mods/invtweaks-emu-for-ipn.pw.toml"
+hash = "3aeaaacd45fa963df580cdc3070e86b5d7a61848227cc1d574f29e332915df5c"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "55a6e99e45313cb3d8bea34f1d7699bb2f4cbc71ad94ef193af0e98254bc67b0"
 metafile = true
 
 [[files]]
@@ -120,6 +135,21 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "ae23ddb15f6bcdebc2c1ab17bbc62e160bdab185209e029061139021940d307f"
+metafile = true
+
+[[files]]
+file = "mods/litematica-printer.pw.toml"
+hash = "f3c02f2f5435126ef37b334e159c74ae4003eafba7c703d755931243121fad3e"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "cfe29cfca29dbb7e4d357dfad08cea55146c310bfd41a9c58b2dbcc8ae7fa0b5"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
@@ -130,8 +160,18 @@ hash = "5db239b544cde5a3b02418c239b72e16be00b2522abe94c6caabc37864ebab9a"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "1f64a0fd8804d7b38014217269964ef7ff41c146b2d4660614390bf4703d0b72"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "052c3feacfce8e544cd4bc8b5abdc2283b9fa774a6993f337dee330d6123baba"
 metafile = true
 
 [[files]]
@@ -207,6 +247,26 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "b8686f7382b6667de82d37b7f0ef8a33955b6ee65231d0178fb78d6eb14bf5a5"
+metafile = true
+
+[[files]]
+file = "mods/tellme.pw.toml"
+hash = "c899e4e5ee4aa85cfa2ee9fca3e26b849d9904b11e9dcc4ff1b0d3e09b54ae88"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "3da488f9704111bc8337c4e38af0b9515f9e65cd72d23cd628d7e71c73129cb8"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "cd55d6298c52f17e360d2166ca5a7fc23083118f761deca96f23f6e90d40a314"
 metafile = true
 
 [[files]]
