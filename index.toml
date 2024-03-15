@@ -75,6 +75,11 @@ hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "99b1060fa083ca355f35f09fe02ef04832a313cff855de8522fd1766164e0082"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "78eae6c50ce595dc5e41b3be58f84218f614b8934e72d1f22348aa4bfa66f133"
 metafile = true
@@ -282,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "d585f6a016f707e637dda8d3ae1e3d4af3096c73f18dd3cd4aa2df55647ea7ab"
 metafile = true
 
 [[files]]
