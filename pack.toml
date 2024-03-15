@@ -1,12 +1,12 @@
 name = "Avery's Essentials"
 author = "averythebird"
-version = "1.20.4-1"
+version = "2.0-1.20.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f95711196638fbf3661e7f7c211a3eaea770f51d18c71cb339ca104b0f8755e4"
+hash = "f9ffe024089acb0a132902f192d59a0f83bd0eda488df7ada84cfbbcc8b6c7f6"
 
 [versions]
 fabric = "0.15.7"
