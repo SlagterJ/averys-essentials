@@ -187,6 +187,11 @@ hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "ff278c8a9a5e56d412fb2e7106790b0ac33b0a4a8699978f0ae4d5a2c70c63b3"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
@@ -344,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "42e0923e98116788bdc09a174d943d81e28e0c2b3c7221eaacb839a9a9359aed"
 metafile = true
 
 [[files]]
