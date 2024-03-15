@@ -5,16 +5,17 @@ It includes performance mods, Optifine replacement mods and technical mods.
 
 It also includes No Chat Reports which protects you from global bans where possible.
 
+You can download the pack via Modrinth.
+[Link](https://modrinth.com/modpack/averys-essentials)
 
-Warning
-------------------
+## Warning
+
 **_Multiple mods in this modpack could be considered cheating on certain servers. Please always check the server's rules and if
 necessary ask the server moderators as use of this modpack could be reason for them to punish/ban you!_**
 
 I am an uni student, **I can not provide tech support, neither can I promise you quick updates.**
 
-Misc
-------------------
+## Misc
 
 This pack is originally based off Fabulously Optimized. It still takes a lot of inspiration and pulls a lot of its mods
 directly from it. Support them [**here**](https://www.modrinth.com/modpack/fabulously-optimized "Fabulously Optimized").
@@ -24,9 +25,10 @@ directly from it. Support them [**here**](https://www.modrinth.com/modpack/fabul
 - **What license is this?**
   It's MIT licensed.
 
-Credits
-------------------
+## Credits
+
 The following mods are not on Modrinth, so their credits are listed here:
+
 - [MaLiLib - Masady](https://www.curseforge.com/minecraft/mc-mods/malilib)
 - [Litematica - Masady](https://www.curseforge.com/minecraft/mc-mods/litematica)
 - [MiniHUD - Masady](https://www.curseforge.com/minecraft/mc-mods/minihud)
@@ -35,5 +37,3 @@ The following mods are not on Modrinth, so their credits are listed here:
 
 These mods are included with permission from their authors or licenses. If any author has problems with me
 including their mod(s) in this modpack, feel free to contact me and I will remove it as soon as possible.
-
-This modpack is open source! Check it out on GitHub!
