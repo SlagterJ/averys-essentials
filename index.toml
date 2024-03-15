@@ -45,6 +45,11 @@ hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
 
 [[files]]
+file = "mods/command-macros.pw.toml"
+hash = "45f133fd2c9b1fdb5f21705b201906b3a586dc6ca2d91407fed7ff106a7cfe77"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
