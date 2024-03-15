@@ -1,0 +1,13 @@
+name = "Avery's Essentials"
+author = "averythebird"
+version = "1.20.4-1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0561914162f9c6f89ba6bdfe2257de33621bf7e448c0c8b162b87e4d86b57644"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.4"
