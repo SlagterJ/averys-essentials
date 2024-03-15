@@ -5,6 +5,16 @@ file = "LICENSE"
 hash = "d5b1cd4d2b68f8f63beb2a730e8007aa065ef70b0e854d9944ad75232d45df26"
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7d3b0183e9e2f58cacbd4cd348c02219033539502094e45ac13f392f1ebfda3e"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "82b20a5c104de33dc01364ff2bf1354132327d085a3dc10954b5ea0ff3d53f51"
 metafile = true
