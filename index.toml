@@ -5,6 +5,38 @@ file = "LICENSE"
 hash = "d5b1cd4d2b68f8f63beb2a730e8007aa065ef70b0e854d9944ad75232d45df26"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "51d555f486e3d44119eadbb8d0180b144ebd94857630ee7adf75f7e6ab77d049"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "5ea04ef3d2fc4f1de763207ca40372b0597acaba800d8bba74247f9145bd40bc"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "1a1d8d32fd9730a879cce68652456017a81cf832439ba80437bc3ec1dcd91894"
+
+[[files]]
+file = "config/yosbr/config/invtweaksemuforipn/main-config.json"
+hash = "a15a388a3f1c2743a26c15c679be5f3fd26cdde666dc7e06fe7ab04ae7bc4025"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "7dddd9b8df252ed38ad83a27d0d49145c1697abdf1d7ddb1a24ae6cf7683f6df"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "2ba8462d164d87584e1e0635b894df69635cc5e4c1efacbdecc163fef182bcd4"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "6cee5e8d42582e3ce37ccff73ffde439bbad73ba59dd150ccb4e986fd8b7bf21"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "d8aa992512e74dc0ed9fc7419e833601949016a35bb3e812afe37f0250fb2a41"
+
+[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "29857ebb80e0c8a7cb570ac609b49e7ac3f3262b6dcce93614dd23cda51e7c1d"
 metafile = true
