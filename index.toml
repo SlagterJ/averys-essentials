@@ -38,6 +38,11 @@ hash = "29857ebb80e0c8a7cb570ac609b49e7ac3f3262b6dcce93614dd23cda51e7c1d"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "4e28293f194a17008f05bdd638cbf09b02470e78c20cf6ef82d64759f126964f"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "97102c00b291f7b018776675dea0bcd7fe25f951db9a702c6bc6b6c0c428bd62"
 metafile = true
