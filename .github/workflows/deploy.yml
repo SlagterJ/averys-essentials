@@ -1,0 +1,32 @@
+name: Push to Main Continuous Deployment
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "config/**"
+      - "mods/**"
+      - "resourcepacks/**"
+      - "index.toml"
+      - "pack.toml"
+
+jobs:
+  export_and_deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Export
+        run: |
+          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export
+
+      - name: Deploy
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: xNGaA9W4
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          modrinth-unfeature-mode: any
+          files: "*.mrpack"
+          loaders: fabric
