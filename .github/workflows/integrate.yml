@@ -1,7 +1,7 @@
 name: Pull Request Continuous Integration
 
 on:
-  push:
+  pull_request:
     branches: [main]
     paths:
       - "config/**"
