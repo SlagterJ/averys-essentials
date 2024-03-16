@@ -1,5 +1,9 @@
 ![Avery's Essentials Logo Banner](https://github.com/SlagterJ/averys-essentials-archive/raw/main/host/banner-main.png "Avery's Essentials")
 
+[![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://download.fo)
+
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/xNGaA9W4)
+
 Hi, this is Avery's Essentials, a modpack I've made that meets all of my personal necessities because no other modpack could.
 It includes performance mods, Optifine replacement mods and technical mods.
 
@@ -15,15 +19,24 @@ necessary ask the server moderators as use of this modpack could be reason for t
 
 I am an uni student, **I can not provide tech support, neither can I promise you quick updates.**
 
-## Misc
+## FAQ
 
-This pack is originally based off Fabulously Optimized. It still takes a lot of inspiration and pulls a lot of its mods
-directly from it. Support them [**here**](https://www.modrinth.com/modpack/fabulously-optimized "Fabulously Optimized").
+- **Q** What does bleeding-edge mean?
+- **A** _It means that Avery's Essentials does comparatively less testing on updates than
+  other modpacks do, this leads to it possibly being less stable but more up-to-date._
 
-- **Can I build off of this pack?**
-  Yes you can, do as you please.
-- **What license is this?**
-  It's MIT licensed.
+- **Q** What does rolling release mean?
+- **A** _Most minecraft modpacks are released on a stable basis, meaning that you get
+  updates less often but they are bigger and more stable. Avery's Essentials is built on
+  a rolling release model, meaning that as soon as changes happen that aren't breaking they
+  get released, which leads to smaller updates more often, that are less likely to break
+  your existing configuration._
+
+- **Q** Can I build off of this pack?
+- **A** _Yes you can, do as you please._
+
+- **Q** What is this project licensed under?
+- **A** _It's MIT licensed._
 
 ## Credits
 
