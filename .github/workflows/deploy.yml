@@ -31,7 +31,7 @@ jobs:
 
       - name: Export
         run: |
-          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export
+          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "averys-essentials-${{ steps.version.outputs.version }}"
 
       - name: Deploy
         uses: Kir-Antipov/mc-publish@v3.3
