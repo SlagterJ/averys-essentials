@@ -142,6 +142,15 @@ key_key.worldeditcui.toggle:key.keyboard.unknown
 key_key.worldeditcui.clear:key.keyboard.unknown
 key_key.worldeditcui.chunk:key.keyboard.unknown
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown
+key_key.amecs.alternative_escape:key.keyboard.unknown
+key_key.amecs.toggle_auto_jump:key.keyboard.unknown
+key_key.amecs.toggle_cape:key.keyboard.unknown
+key_key.amecs.toggle_jacket:key.keyboard.unknown
+key_key.amecs.toggle_left_sleeve:key.keyboard.unknown
+key_key.amecs.toggle_right_sleeve:key.keyboard.unknown
+key_key.amecs.toggle_left_pants_leg:key.keyboard.unknown
+key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown
+key_key.amecs.toggle_hat:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.open_muffler_gui:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
