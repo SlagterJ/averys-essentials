@@ -4,15 +4,15 @@ on:
   push:
     branches: [main]
     paths:
-      - "config/**"
-      - "mods/**"
-      - "resourcepacks/**"
-      - "index.toml"
-      - "pack.toml"
+      - "packwiz/**"
 
 jobs:
   export_and_deploy:
     runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: ./packwiz
 
     steps:
       - name: Checkout
