@@ -308,11 +308,6 @@ hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
 metafile = true
 
 [[files]]
-file = "mods/moremcmeta-emissive.pw.toml"
-hash = "5726902e1b8dafe52c2f9b8587514bafaf0fa538990741e6f24b8a55be115377"
-metafile = true
-
-[[files]]
 file = "mods/moremcmeta.pw.toml"
 hash = "f25b57db668d54d202bb8b9a51e27fd710d9f8129ec68d15a006cda0296648b1"
 metafile = true
@@ -439,5 +434,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "713382a51b9c7f49790b6640079b8a5dab5839c4870192deb9b72ce47d94d602"
+hash = "a8c1a47f96a7c924cf4d4a2eda64f9b9ff93f2bd795e5750a17fd7146265d5ff"
 metafile = true
