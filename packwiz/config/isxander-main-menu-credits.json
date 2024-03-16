@@ -1,0 +1,24 @@
+{
+  "main_menu": {
+    "top_left": ["Avery's Essentials", "by averythebird"],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": [],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [
+      "Default configuration menu key bindings:",
+      "M + C | Litematica",
+      "H + C | MiniHUD",
+      "X + C | Tweakeroo",
+      "K + C | Tweakermore",
+      "I + C | Item Scroller",
+      "R + C | Inventory Profiles Next"
+    ],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": [],
+    "mod_blacklist": []
+  }
+}
