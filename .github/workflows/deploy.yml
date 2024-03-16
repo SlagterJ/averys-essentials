@@ -1,4 +1,4 @@
-name: Push to Main Continuous Deployment
+name: Push To Main Continuous Deployment
 
 on:
   push:
@@ -24,7 +24,7 @@ jobs:
 
       - name: Export
         run: |
-          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "averys-essentials-${{ steps.version.outputs.uuid }}"
+          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "averys-essentials-${{ steps.version.outputs.uuid }}.mrpack"
 
       - name: Deploy
         uses: Kir-Antipov/mc-publish@v3.3
