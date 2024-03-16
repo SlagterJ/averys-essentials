@@ -43,3 +43,4 @@ jobs:
           version: ${{ steps.version.outputs.version }}
           files: "*.mrpack"
           loaders: fabric
+          game-versions: ${{ vars.MC_VERSION }}

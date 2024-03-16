@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "51d555f486e3d44119eadbb8d0180b144ebd94857630ee7adf75f7e6ab77d049"
+hash = "be8add109f8f322fba95c7e6cc85c4c0754dc9a8d41d0528dbb3aadaa002b095"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -11,10 +11,6 @@ hash = "5ea04ef3d2fc4f1de763207ca40372b0597acaba800d8bba74247f9145bd40bc"
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "1a1d8d32fd9730a879cce68652456017a81cf832439ba80437bc3ec1dcd91894"
-
-[[files]]
-file = "config/yosbr/config/invtweaksemuforipn/main-config.json"
-hash = "a15a388a3f1c2743a26c15c679be5f3fd26cdde666dc7e06fe7ab04ae7bc4025"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -30,7 +26,7 @@ hash = "649b004409a1a62d774115eb2e6a42027004fbdceaa6cc89a5b231fb5f9ec0b0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "95846f48891a347939973494bf13fe2ee9b6533d15cc99766fd0aa07f556dc07"
+hash = "c2001f4df16f5a69358b2ec9cdbda718b81adcc96af48b93464e038bd39be15d"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -220,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "55a6e99e45313cb3d8bea34f1d7699bb2f4cbc71ad94ef193af0e98254bc67b0"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "1dc8fb0a505458dc54327afe183d219aa8f2cc07c14c570df6c4161e2a979e08"
 metafile = true
 
 [[files]]
