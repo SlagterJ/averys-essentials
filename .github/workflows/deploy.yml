@@ -30,3 +30,4 @@ jobs:
           modrinth-unfeature-mode: any
           files: "*.mrpack"
           loaders: fabric
+          game-versions: ${{ vars.MC_VERSION }}
