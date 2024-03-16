@@ -20,7 +20,7 @@ jobs:
 
       - name: Generate version
         id: version
-        run: echo "date=$(date +'%Y-%m-%d-%H-%M') >> $GITHUB_STATE"
+        run: echo "date=$(date +'%Y-%m-%d-%H-%M')" >> $GITHUB_STATE
 
       - name: Export
         run: |
