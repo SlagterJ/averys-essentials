@@ -1,6 +1,6 @@
 name = "Avery's Essentials"
 author = "averythebird"
-version = "rolling_release"
+version = "rolling"
 pack-format = "packwiz:1.1.0"
 
 [index]
