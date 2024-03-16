@@ -4,15 +4,15 @@ on:
   push:
     branches: [main]
     paths:
-      - "packwiz/**"
+      - "config/**"
+      - "mods/**"
+      - "resourcepacks/**"
+      - "index.toml"
+      - "pack.toml"
 
 jobs:
   export_and_deploy:
     runs-on: ubuntu-latest
-
-    defaults:
-      run:
-        working-directory: ./packwiz
 
     steps:
       - name: Checkout
@@ -20,11 +20,11 @@ jobs:
 
       - name: Generate version
         id: version
-        uses: filipstefansson/uuid-action@v1.1
+        run: echo "::set-output name=date::$(date + '%Y-%m-%d-%H-%M')"
 
       - name: Export
         run: |
-          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "averys-essentials-${{ steps.version.outputs.uuid }}.mrpack"
+          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "averys-essentials-${{ steps.version.outputs.date }}.mrpack"
 
       - name: Deploy
         uses: Kir-Antipov/mc-publish@v3.3
@@ -32,8 +32,8 @@ jobs:
           modrinth-id: xNGaA9W4
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: any
-          name: ${{ steps.version.outputs.uuid }}
-          version: ${{ steps.version.outputs.uuid }}
+          name: ${{ steps.version.outputs.date }}
+          version: ${{ steps.version.outputs.date }}
           files: "*.mrpack"
           loaders: fabric
           game-versions: ${{ vars.MC_VERSION }}
