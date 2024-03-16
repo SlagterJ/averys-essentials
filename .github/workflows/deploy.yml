@@ -17,6 +17,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          #
+          fetch-depth: 50
+
+      - name: Determine Version
+        id: version
+        uses: paulhatch/semantic-version@v5.3.0
+        with:
+          major_pattern: "(MAJOR)"
+          minor_pattern: "(MINOR)"
+          version_format: $rolling-{major}.${minor}.${patch}"
 
       - name: Export
         run: |
@@ -28,6 +39,7 @@ jobs:
           modrinth-id: xNGaA9W4
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: any
+          name: ${{ steps.version.outputs.version }}
           files: "*.mrpack"
           loaders: fabric
           game-versions: ${{ vars.MC_VERSION }}
