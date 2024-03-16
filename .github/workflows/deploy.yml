@@ -17,21 +17,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          #
-          fetch-depth: 50
 
-      - name: Determine Version
+      - name: Generate version
         id: version
-        uses: paulhatch/semantic-version@v5.3.0
-        with:
-          major_pattern: "(MAJOR)"
-          minor_pattern: "(MINOR)"
-          version_format: "rolling-${major}.${minor}.${patch}"
+        uses: filipstefansson/uuid-action@v1.1
 
       - name: Export
         run: |
-          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "averys-essentials-${{ steps.version.outputs.version }}"
+          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "averys-essentials-${{ steps.version.outputs.uuid }}"
 
       - name: Deploy
         uses: Kir-Antipov/mc-publish@v3.3
@@ -39,8 +32,8 @@ jobs:
           modrinth-id: xNGaA9W4
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: any
-          name: ${{ steps.version.outputs.version }}
-          version: ${{ steps.version.outputs.version }}
+          name: "rolling-${{ steps.version.outputs.uuid }}"
+          version: ${{ steps.version.outputs.uuid }}
           files: "*.mrpack"
           loaders: fabric
           game-versions: ${{ vars.MC_VERSION }}
