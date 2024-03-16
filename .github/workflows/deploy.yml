@@ -32,7 +32,7 @@ jobs:
           modrinth-id: xNGaA9W4
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: any
-          name: "rolling-${{ steps.version.outputs.uuid }}"
+          name: ${{ steps.version.outputs.uuid }}
           version: ${{ steps.version.outputs.uuid }}
           files: "*.mrpack"
           loaders: fabric
