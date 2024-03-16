@@ -22,11 +22,11 @@ hash = "7dddd9b8df252ed38ad83a27d0d49145c1697abdf1d7ddb1a24ae6cf7683f6df"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "2ba8462d164d87584e1e0635b894df69635cc5e4c1efacbdecc163fef182bcd4"
+hash = "3d21b6892798bef21338bcc7ddf42e45f2661bbba792fdae5467455d15b9bc62"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "6cee5e8d42582e3ce37ccff73ffde439bbad73ba59dd150ccb4e986fd8b7bf21"
+hash = "649b004409a1a62d774115eb2e6a42027004fbdceaa6cc89a5b231fb5f9ec0b0"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -210,11 +210,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "122035a5e885c8c784fc36fc5ea58b31f6f8f67fbb44d4d0695b2edae207ebc2"
-metafile = true
-
-[[files]]
-file = "mods/invtweaks-emu-for-ipn.pw.toml"
-hash = "3aeaaacd45fa963df580cdc3070e86b5d7a61848227cc1d574f29e332915df5c"
 metafile = true
 
 [[files]]
