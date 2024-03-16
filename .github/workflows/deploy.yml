@@ -40,6 +40,6 @@ jobs:
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: any
           name: ${{ steps.version.outputs.version }}
+          version: ${{ steps.version.outputs.version }}
           files: "*.mrpack"
           loaders: fabric
-          game-versions: ${{ vars.MC_VERSION }}
