@@ -428,17 +428,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "92c0f7fa830b0b12d1c3b7b7d3b7397415a805e82c2927b2bb9b85a42517113f"
+hash = "bd9f0bee219f5b9b331185597e5997adcb3fa0dcdfc4cb517bb3aa0930c26fd3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6fea2f9bac56a998ca70374c89e788a7d5d78d0b59311f4fadb09ec91af99212"
+hash = "449586f7da7995323b1ce53be41e7f5f73e89f013b503e8391ee7319d79b83c9"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c6374b029408c864318be26f5e6854e1fd4c70222f0dacc4a4d8c1eadc364369"
+hash = "7990871e681fc5b0d67baf841c0c855480979c02bf05881f7683be110a286a01"
 metafile = true
 
 [[files]]
