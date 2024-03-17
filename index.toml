@@ -17,6 +17,10 @@ file = "config/yosbr/config/puzzle.json"
 hash = "7dddd9b8df252ed38ad83a27d0d49145c1697abdf1d7ddb1a24ae6cf7683f6df"
 
 [[files]]
+file = "config/yosbr/config/replaymod.json"
+hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "3d21b6892798bef21338bcc7ddf42e45f2661bbba792fdae5467455d15b9bc62"
 
@@ -341,6 +345,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
+metafile = true
+
+[[files]]
+file = "mods/replay-voice-chat.pw.toml"
+hash = "72b170475457b9caba181122fecc6d48ce91372679d2f61cf15ef2b8bffb70ce"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "99ee7b32c3c060cbfce38b3bba0145aa58ba06a41a98329cdd5ec622cdd62aa8"
 metafile = true
 
 [[files]]
