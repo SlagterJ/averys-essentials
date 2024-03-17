@@ -10,7 +10,11 @@ hash = "5ea04ef3d2fc4f1de763207ca40372b0597acaba800d8bba74247f9145bd40bc"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "1a1d8d32fd9730a879cce68652456017a81cf832439ba80437bc3ec1dcd91894"
+hash = "14b05c0921bdc07e3173c59ff67734f2ccd5951161f2896ee49a8cad408ccb2e"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "3e9f8d45844532c3c7d3cd868e3f4ce260c2e0448ba9c11e3b41cdc41b54f068"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
