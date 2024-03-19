@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/moddetectionpreventer.pw.toml"
-hash = "d5b31676ddcb673733e322e0e3b15894924ab6136a28b3573462b2307b6fd56b"
+hash = "afab2fbd384fd1f093b7b6d1500d3227c129223b4a6e2ee62ed43b63bfae8f1d"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "3da488f9704111bc8337c4e38af0b9515f9e65cd72d23cd628d7e71c73129cb8"
+hash = "d547b13c44aa82e00e2ec1a1cb2c12acc38e84d5a771c7912f88a832213b1a76"
 metafile = true
 
 [[files]]
@@ -442,12 +442,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "bd9f0bee219f5b9b331185597e5997adcb3fa0dcdfc4cb517bb3aa0930c26fd3"
+hash = "db8a756a93acd2a341cdb683f03c617539ce314af14007dfa52f4d4a9ca7a876"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "449586f7da7995323b1ce53be41e7f5f73e89f013b503e8391ee7319d79b83c9"
+hash = "1600e00f10ba1ad1c0b60be85bee523e66b13cfa61c8beab1b48042eb0a574bf"
 metafile = true
 
 [[files]]
