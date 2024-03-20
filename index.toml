@@ -14,27 +14,27 @@ hash = "14b05c0921bdc07e3173c59ff67734f2ccd5951161f2896ee49a8cad408ccb2e"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "0dc9000a896c199c84ec59adc4350abee03a7a4d2ca32cf2bf0924cfbb57f770"
+hash = "bc5fc249179fa926c9395c63626120f52f55e5c25638712a3e4008a3737e9013"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "3e9f8d45844532c3c7d3cd868e3f4ce260c2e0448ba9c11e3b41cdc41b54f068"
+hash = "98769d10a530e301a95ad1da8a710c8671e93d8be7b921cc614da63f64523fdb"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "7dddd9b8df252ed38ad83a27d0d49145c1697abdf1d7ddb1a24ae6cf7683f6df"
+hash = "391245ffe2c0050f521f423f53f4e889f2c03a4afaea05460abd53a65f30ddd2"
 
 [[files]]
 file = "config/yosbr/config/replaymod.json"
-hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
+hash = "b0de7bcbab3c360450369bba7d647562c7610c9f11e9fb44bbd1e3fdb8460d08"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "3d21b6892798bef21338bcc7ddf42e45f2661bbba792fdae5467455d15b9bc62"
+hash = "1828085407931efe6c962f0944645b87f41812a7e95e1cd321ccf43217778899"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "649b004409a1a62d774115eb2e6a42027004fbdceaa6cc89a5b231fb5f9ec0b0"
+hash = "c01659d942f7fd23bbc78d9a2f352e9ce586d9c3fd40cbf59b76fcaed1af9a48"
 
 [[files]]
 file = "config/yosbr/options.txt"
