@@ -42,7 +42,7 @@ hash = "c01659d942f7fd23bbc78d9a2f352e9ce586d9c3fd40cbf59b76fcaed1af9a48"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c2001f4df16f5a69358b2ec9cdbda718b81adcc96af48b93464e038bd39be15d"
+hash = "4858d0316218011ab8c4f70832fc49a25482e2d1af915928e8dd91d75ecf022a"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
