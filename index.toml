@@ -42,7 +42,7 @@ hash = "c01659d942f7fd23bbc78d9a2f352e9ce586d9c3fd40cbf59b76fcaed1af9a48"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8cd50f66f22358d6d2fe680735572b89cbb3bf9df4361fddece5a551aac5d0f9"
+hash = "f63aec29cacdeb5f8524dbd3aa60aab4f2820e04859873f1ffb41f8d1c672dd4"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -72,11 +72,6 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "82b20a5c104de33dc01364ff2bf1354132327d085a3dc10954b5ea0ff3d53f51"
-metafile = true
-
-[[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "5cc5a514cc9b8567abda1d5860a8ac3afdf868906caf9bd24c6c534943e1fb4c"
 metafile = true
 
 [[files]]
@@ -142,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
 
 [[files]]

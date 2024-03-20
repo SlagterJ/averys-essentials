@@ -3,7 +3,6 @@ autoJump:false
 operatorItemsTab:true
 enableVsync:true
 reducedDebugInfo:false
-fullscreen:true
 darkMojangStudiosBackground:true
 hideLightningFlashes:true
 screenEffectScale:0.0
