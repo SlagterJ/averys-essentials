@@ -42,7 +42,7 @@ hash = "c01659d942f7fd23bbc78d9a2f352e9ce586d9c3fd40cbf59b76fcaed1af9a48"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4858d0316218011ab8c4f70832fc49a25482e2d1af915928e8dd91d75ecf022a"
+hash = "8cd50f66f22358d6d2fe680735572b89cbb3bf9df4361fddece5a551aac5d0f9"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -462,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "fd2001170ec72ebe105f9b49c804d25b1d29eddefdc8deb2c8e607531985971c"
 metafile = true
 
 [[files]]

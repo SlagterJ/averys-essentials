@@ -11,8 +11,8 @@ darknessEffectScale:0.0
 narratorHotkey:false
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","itemswapper:default_resourcepacks/default","continuity:default_resourcepacks/default","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix"]
-incompatibleResourcePacks:["e4mc_minecraft","extremesoundmuffler","modernfix","rrls","spark","tweakeroo","worldedit","continuity:default_resourcepacks/default","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","itemswapper:default","itemswapper:experimental_addon"]
+incompatibleResourcePacks:["e4mc_minecraft","extremesoundmuffler","modernfix","replaymod","rrls","spark","tweakeroo","worldedit","xaerominimap","xaeroworldmap","continuity:default","continuity:glass_pane_culling_fix"]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true
