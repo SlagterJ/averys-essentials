@@ -8,6 +8,7 @@ hideLightningFlashes:true
 screenEffectScale:0.0
 darknessEffectScale:0.0
 narratorHotkey:false
+gamma:1.0
 guiScale:3
 maxFps:260
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","itemswapper:default","itemswapper:experimental_addon"]
