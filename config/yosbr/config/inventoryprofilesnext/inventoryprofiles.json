@@ -15,7 +15,8 @@
         },
         "enable_profiles_ui": {
             "value": false
-        }
+        },
+        "continuous_crafting_saved_value": false
     },
     "ScrollSettings": {
         "scroll_full_stack": {
