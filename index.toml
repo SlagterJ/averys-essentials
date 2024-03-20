@@ -10,7 +10,7 @@ hash = "5ea04ef3d2fc4f1de763207ca40372b0597acaba800d8bba74247f9145bd40bc"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "14b05c0921bdc07e3173c59ff67734f2ccd5951161f2896ee49a8cad408ccb2e"
+hash = "031a4d12935ca2a85089f6e702dfbc1c1b2131e4b0a0fb654d7cf074d9208e79"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -22,11 +22,15 @@ hash = "98769d10a530e301a95ad1da8a710c8671e93d8be7b921cc614da63f64523fdb"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "391245ffe2c0050f521f423f53f4e889f2c03a4afaea05460abd53a65f30ddd2"
+hash = "c9b7c90236ae7a0b0f2970ecf99f78668ccf355b5c7d50a2c6ba61fa5e74f144"
 
 [[files]]
 file = "config/yosbr/config/replaymod.json"
 hash = "b0de7bcbab3c360450369bba7d647562c7610c9f11e9fb44bbd1e3fdb8460d08"
+
+[[files]]
+file = "config/yosbr/config/rrls.toml"
+hash = "0d5ec9130dd8f8ec24ef6ff740aa48ad286749a7e4746e95397e4b70783b7f2c"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
