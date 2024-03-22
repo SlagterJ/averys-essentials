@@ -26,13 +26,22 @@ jobs:
         run: |
           docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "averys-essentials-${{ steps.version.outputs.date }}.mrpack"
 
-      - name: Deploy
+      - name: Deploy to GitHub
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           github-tag: ${{ steps.version.outputs.date }}
           github-generate-changelog: true
           github-token: ${{ secrets.GH_TOKEN }}
 
+          name: ${{ steps.version.outputs.date }}
+          version: ${{ steps.version.outputs.date }}
+          files: "*.mrpack"
+          loaders: fabric
+          game-versions: ${{ vars.MC_VERSION }}
+
+      - name: Deploy to Modrinth
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
           modrinth-id: xNGaA9W4
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: any
@@ -42,3 +51,4 @@ jobs:
           files: "*.mrpack"
           loaders: fabric
           game-versions: ${{ vars.MC_VERSION }}
+          changelog: "Changelog: https://www.github.com/SlagterJ/averys-essentials/releases/tag/${{ steps.version.outputs.date }}/"
