@@ -450,11 +450,6 @@ hash = "cd55d6298c52f17e360d2166ca5a7fc23083118f761deca96f23f6e90d40a314"
 metafile = true
 
 [[files]]
-file = "mods/vanadium.pw.toml"
-hash = "66f3fa31e845eb078ee8047e6a1323237b98d2fd6101c17b18176f79aa686223"
-metafile = true
-
-[[files]]
 file = "mods/worldedit-cui.pw.toml"
 hash = "68557e8b0cd7bdf1015c3760d70841a876284d7f83b36bfea022a8612e8a393a"
 metafile = true
