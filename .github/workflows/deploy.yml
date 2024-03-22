@@ -32,6 +32,11 @@ jobs:
           modrinth-id: xNGaA9W4
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: any
+
+          github-tag: ${{ steps.version.outputs.date }}
+          github-generate-changelog: true
+          github-token: ${{ secrets.GH_TOKEN }}
+
           name: ${{ steps.version.outputs.date }}
           version: ${{ steps.version.outputs.date }}
           files: "*.mrpack"
