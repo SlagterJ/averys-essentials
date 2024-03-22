@@ -29,13 +29,13 @@ jobs:
       - name: Deploy
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          modrinth-id: xNGaA9W4
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          modrinth-unfeature-mode: any
-
           github-tag: ${{ steps.version.outputs.date }}
           github-generate-changelog: true
           github-token: ${{ secrets.GH_TOKEN }}
+
+          modrinth-id: xNGaA9W4
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          modrinth-unfeature-mode: any
 
           name: ${{ steps.version.outputs.date }}
           version: ${{ steps.version.outputs.date }}
