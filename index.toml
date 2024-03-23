@@ -9,6 +9,10 @@ file = "config/yosbr/config/capes.json5"
 hash = "b2713b0ea64ce3f114d0712b7c5dbe6da95ce1fd44a1a97494300294231e8bd0"
 
 [[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "893aec85a0c63123dcb70de5633f70d104e3e2b6a1384206c1aea05fc99d8beb"
+
+[[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "6bc721d8e4ad0d989f50bccc1c92ca8b67d865dd8a401e160e23e9c4ef3fd677"
 
@@ -42,7 +46,7 @@ hash = "c01659d942f7fd23bbc78d9a2f352e9ce586d9c3fd40cbf59b76fcaed1af9a48"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f2c228b6ac10748e3bfb850daec4fdf69504a9e7e43d1143101e0fa80359df39"
+hash = "02d1b80074413f6635abedec68cb7f62687a606dbd665bb1a727df447541f78b"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -60,6 +64,11 @@ hash = "4e28293f194a17008f05bdd638cbf09b02470e78c20cf6ef82d64759f126964f"
 metafile = true
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "076e38e5c766351948e354a9236e0bb3bd1ef765a4cd92ebf5e2ed2abc53648d"
 metafile = true
@@ -72,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "8b13db034aecef8d45addf4f12aa024d35b905ae144df48542683e1b162ba4f9"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
 metafile = true
 
 [[files]]
@@ -350,11 +364,6 @@ hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
 metafile = true
 
 [[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "f25b57db668d54d202bb8b9a51e27fd710d9f8129ec68d15a006cda0296648b1"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
 metafile = true
@@ -362,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/no-night-vision-flickering.pw.toml"
 hash = "4f818e0cf25d689e726ac5b6ff3b95c65db03046beb447981a9d049ec388d30b"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
 
 [[files]]
@@ -482,6 +496,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "fd2001170ec72ebe105f9b49c804d25b1d29eddefdc8deb2c8e607531985971c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
 metafile = true
 
 [[files]]
