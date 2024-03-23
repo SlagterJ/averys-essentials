@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca7cc306ad9f3f8eb6e92d0cad5187778a23b081500b5820dbd9effd08ba0dfd"
+hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
 metafile = true
 
 [[files]]
@@ -491,5 +491,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a8c1a47f96a7c924cf4d4a2eda64f9b9ff93f2bd795e5750a17fd7146265d5ff"
+hash = "3e86e1be504c0092e5f853b00def89e079621215646af87792531263a905b4fd"
 metafile = true
