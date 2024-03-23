@@ -12,7 +12,7 @@ gamma:1.0
 guiScale:3
 maxFps:260
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","itemswapper:default","itemswapper:experimental_addon"]
-incompatibleResourcePacks:["e4mc_minecraft","extremesoundmuffler","modernfix","replaymod","rrls","spark","tweakeroo","worldedit","xaerominimap","xaeroworldmap","continuity:default","continuity:glass_pane_culling_fix"]
+incompatibleResourcePacks:[]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true
