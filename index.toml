@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9fb071407761cdb22323713a3f24ca27f04bb67c0ea455ee2e73778c6ecece75"
+hash = "59904ae00ebd7d79853694a242c8f765da434d505a292f94cf615fa1ebf4484d"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "db8a756a93acd2a341cdb683f03c617539ce314af14007dfa52f4d4a9ca7a876"
+hash = "574dfdb555d3ca823e40449ebb04d3fa2f412b0be6f1e464cc2a801a53b9ca3a"
 metafile = true
 
 [[files]]
