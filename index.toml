@@ -475,12 +475,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "574dfdb555d3ca823e40449ebb04d3fa2f412b0be6f1e464cc2a801a53b9ca3a"
+hash = "014d0da276b7d4ade249298a7f6a0b18181fb6a2aa4042f5d4bf613803833a49"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "1600e00f10ba1ad1c0b60be85bee523e66b13cfa61c8beab1b48042eb0a574bf"
+hash = "031a1cbb6b7ad15f3bbb59232961cc3ff2d06633f9c8d732ded5db82991b6446"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/programmer-art-fix.pw.toml"
-hash = "2ecd20c1e35d81defd5a101da10c79e5ac56224fbd9c9c110982fb26ebe40232"
+hash = "d3ed555d4ac6a26e4f978988fd114d829b95ea88207a3edd0fe244419efaf9f7"
 metafile = true
 
 [[files]]
