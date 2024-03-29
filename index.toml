@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "014d0da276b7d4ade249298a7f6a0b18181fb6a2aa4042f5d4bf613803833a49"
+hash = "7bbc7cd03520876fb79b67fc49e633b705c89c6ca976da89a9214271db8a4ae6"
 metafile = true
 
 [[files]]
