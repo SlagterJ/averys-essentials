@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "a60b40bf13dbb92bb17d64eb25bfd383b7e10eaadca1d8d1364bc06d72d92465"
+hash = "d2e031c94440f18885945f97f92e093bbe527d698897f2047daeac166c71d0ff"
 metafile = true
 
 [[files]]
@@ -376,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "708c3992f04530d2366b570ad6503b97881d039f2d79530c861b8f276b2ec591"
 metafile = true
 
 [[files]]
@@ -461,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "cd55d6298c52f17e360d2166ca5a7fc23083118f761deca96f23f6e90d40a314"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "7dfbf79bf874dcfdb27e4bbc92da56cdab2ffdbee459dfd2eee5a57dacb59ed2"
 metafile = true
 
 [[files]]
