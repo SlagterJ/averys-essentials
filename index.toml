@@ -9,6 +9,10 @@ file = "config/yosbr/config/capes.json5"
 hash = "b2713b0ea64ce3f114d0712b7c5dbe6da95ce1fd44a1a97494300294231e8bd0"
 
 [[files]]
+file = "config/yosbr/config/chatpatches.json"
+hash = "fdfa3e488489ad1068fd97cdb3372bcab6f03b74b79f405b32026486d4d9ad04"
+
+[[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "893aec85a0c63123dcb70de5633f70d104e3e2b6a1384206c1aea05fc99d8beb"
 
@@ -131,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/caxton.pw.toml"
 hash = "f717f9152cc683cf3148c299ff512a47495d46ee0ab3c36e5d891a4e64cb05df"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "2433fdea662b142e37c336c80217c078747a17b443e2c1c54c3d348b07972c70"
 metafile = true
 
 [[files]]
@@ -496,6 +505,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "7990871e681fc5b0d67baf841c0c855480979c02bf05881f7683be110a286a01"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "0e64714c116db266b1c35b0fea980d0ad75ddee7639d13f89d5cedf6c7e336e7"
 metafile = true
 
 [[files]]
