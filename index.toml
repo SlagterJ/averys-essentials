@@ -153,8 +153,8 @@ hash = "c9354f82fc22ce663be8eb83fe9529ae1ddf59c1b4c68ee87ebcafbae0bee91c"
 metafile = true
 
 [[files]]
-file = "mods/cit.pw.toml"
-hash = "123906cf54fb7b9ed295c589ca2d6072a31e1acadd0da84f48c9a40656d3fc67"
+file = "mods/cit-resewn.pw.toml"
+hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
 metafile = true
 
 [[files]]
@@ -400,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "8bb727360596439b65a6bc057ccd0a51996e529948c59d41c35db05ee35ca559"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "a552c2d8c1b994191a20f37e6b5812642daa1ec575c8abcf933f016df39bb6f5"
 metafile = true
 
 [[files]]
