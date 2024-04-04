@@ -17,8 +17,6 @@ You can download the pack via Modrinth.
 **_Multiple mods in this modpack could be considered cheating on certain servers. Please always check the server's rules and if
 necessary ask the server moderators as use of this modpack could be reason for them to punish/ban you!_**
 
-I am an uni student, **I can not provide tech support, neither can I promise you quick updates.**
-
 ## FAQ
 
 - **Q** What does bleeding-edge mean?
@@ -42,7 +40,6 @@ I am an uni student, **I can not provide tech support, neither can I promise you
 
 The following mods are not on Modrinth, so their credits are listed here:
 
-- [MaLiLib - Masady](https://www.curseforge.com/minecraft/mc-mods/malilib)
 - [Litematica - Masady](https://www.curseforge.com/minecraft/mc-mods/litematica)
 - [MiniHUD - Masady](https://www.curseforge.com/minecraft/mc-mods/minihud)
 - [Tweakeroo - Masady](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
