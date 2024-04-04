@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d2a55b5ea4c0bf49de881d377918e07b025ddc51c596debe7af6fe478dbbd9a5"
+hash = "17251ecdaed4668e20646189ffa23edbc76ea185a8389bde2c4c9f190ffd4d25"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a552c2d8c1b994191a20f37e6b5812642daa1ec575c8abcf933f016df39bb6f5"
+hash = "bafbcb1f7b423243ecfcad5dfc6ef2a169aa201d5b8ef8504ac73abb9f1b2708"
 metafile = true
 
 [[files]]
