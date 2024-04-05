@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+hash = "b1e256001d9d86101d4fd0c888099bcf25b0b72fffc8a5a64505dcb48fb6a652"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "bafbcb1f7b423243ecfcad5dfc6ef2a169aa201d5b8ef8504ac73abb9f1b2708"
+hash = "c338f4f416ec755ed37763e72a699ff6340456135b2aa4adcefb3d9050a8e702"
 metafile = true
 
 [[files]]
