@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "708c3992f04530d2366b570ad6503b97881d039f2d79530c861b8f276b2ec591"
+hash = "c60be719d5ede034bcc81d79fdec100b8d07c09a270ac01f571cf516840a263b"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c338f4f416ec755ed37763e72a699ff6340456135b2aa4adcefb3d9050a8e702"
+hash = "3eafe7995675cb7d1f931473ddfd5ca7ac28b514994df591aa7a28f74bc4c22a"
 metafile = true
 
 [[files]]
@@ -539,5 +539,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "cd11e1f19b28c6c8f8552398cd405556687880cc5f9ee7961d3528f6a39949ab"
+hash = "d112ef73f801604bece87d9a9dba6773ac9c95b0a0d0dc7b707ebbb419d5b7f3"
 metafile = true
