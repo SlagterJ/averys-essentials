@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "3eafe7995675cb7d1f931473ddfd5ca7ac28b514994df591aa7a28f74bc4c22a"
+hash = "418339fd110b3103efe89feb85b6f77bc3914a00fd8d81368fbb8524b5938bd6"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b5ea10a1c3c734f62fb8c33722e4e24f2e7a60a39b4aa861b7e23ffe6fe755f8"
+hash = "7e8ac959d6a8876ba5cd06e42c779aeb7b9414de28f9eaa01d928a0af60b8ad1"
 metafile = true
 
 [[files]]
