@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
+hash = "66afcc444afc211fb2c9fdbfb4826e39165acf9a4c1343ed491fff5988e1d539"
 metafile = true
 
 [[files]]
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "c60be719d5ede034bcc81d79fdec100b8d07c09a270ac01f571cf516840a263b"
+hash = "0e1d4949eea0abd1058d9687385615de9644d4eb20c5b0900222d182beae12e1"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "42e0923e98116788bdc09a174d943d81e28e0c2b3c7221eaacb839a9a9359aed"
+hash = "c16e5515c9578fb21ede824ddc04c155687e64f905501648120b89f7669d57d1"
 metafile = true
 
 [[files]]
@@ -509,17 +509,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "7bbc7cd03520876fb79b67fc49e633b705c89c6ca976da89a9214271db8a4ae6"
+hash = "391e05697853594792916e3e52249a78897068fcb3d64cc0d3c1bbb664f747c7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "031a1cbb6b7ad15f3bbb59232961cc3ff2d06633f9c8d732ded5db82991b6446"
+hash = "868925f9646189c9d395ee0a1c3672e031e9261f91273d666f47d5e080e968c7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7990871e681fc5b0d67baf841c0c855480979c02bf05881f7683be110a286a01"
+hash = "e92e0c8f73b049649c18fc8a5f2e9a7fe310ed6cec310811399db51b99a2b715"
 metafile = true
 
 [[files]]
@@ -549,5 +549,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d112ef73f801604bece87d9a9dba6773ac9c95b0a0d0dc7b707ebbb419d5b7f3"
+hash = "629c0d53d62818586ae5f77edfa8e340800ef166c86447baf5d8d8d77ec5ec1b"
 metafile = true
