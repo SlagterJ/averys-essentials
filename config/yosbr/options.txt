@@ -26,7 +26,6 @@ key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.unknown
 key_key.amecs.toggle_auto_jump:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.itemswapper.itemswitcher:key.keyboard.v
-key_key.logical_zoom.zoom:key.keyboard.z
 key_key.optigui.inspect:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.comma
 key_key.disable_voice_chat:key.keyboard.unknown
