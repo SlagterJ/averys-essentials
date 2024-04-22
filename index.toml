@@ -50,7 +50,7 @@ hash = "c01659d942f7fd23bbc78d9a2f352e9ce586d9c3fd40cbf59b76fcaed1af9a48"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "86a99dac253638815a4a0df5be113ed4e9fa7d8e108a40b5ea8c1f625e7f0b64"
+hash = "611a26b6b9ee0653d9daecbfa2b9f47353eed3acdf213f1063062219cb8cf9a8"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -104,12 +104,17 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "17251ecdaed4668e20646189ffa23edbc76ea185a8389bde2c4c9f190ffd4d25"
+hash = "47ba1abf976c14cd73988a1f0cf5c4a670f23517ef8543cc891c62bb966a057b"
 metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
 hash = "c85c3e680af7e30e2379956a67bd8b0f5d424390f7a130f507143ec4984cc6cd"
+metafile = true
+
+[[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "d56937a6cc76dfeefb55f46268783dcb0e1c8fc02abb2f4fca06294bf66a705d"
 metafile = true
 
 [[files]]
@@ -209,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "ecd143b560c3a3206ac1005ed0664bae8902a08caea9eef6fcb06e4bb5844f46"
+hash = "af7fd9d3c9e3c010fbe814edc39ddfcd46922f90eea135adf21cfd08a10ad033"
 metafile = true
 
 [[files]]
@@ -219,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "121cb63c8ecad9d730ecbd21000182b29a7f0e9ff8bf7645574d556a959d132d"
+hash = "8f37fdd79b3c14043a02703dfe1a8da35c7ab8b40a9729c2e9e0bd42e5a92279"
 metafile = true
 
 [[files]]
@@ -328,11 +333,6 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
-file = "mods/logical-zoom.pw.toml"
-hash = "5db239b544cde5a3b02418c239b72e16be00b2522abe94c6caabc37864ebab9a"
-metafile = true
-
-[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "aeb80ffcd7d25d95429f93b54e31d620f85e75a08769126d77031bd8fb262cbf"
+hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
@@ -534,12 +534,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "541c9a4652b02d1edfd7465c3c0ee17b0d9d12e02cd48412f9a6df27777683f5"
+hash = "6ba173154c8fe78d78524902a420006e0f1af92533d990fc36d14e55f33327b4"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
+hash = "2d9ab5d76c32219c684dbb599ef9ebc6d99148a084c38bc61c0cf1ea5f16a77c"
 metafile = true
 
 [[files]]
