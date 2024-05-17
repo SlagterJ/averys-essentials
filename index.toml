@@ -18,7 +18,7 @@ hash = "893aec85a0c63123dcb70de5633f70d104e3e2b6a1384206c1aea05fc99d8beb"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "6bc721d8e4ad0d989f50bccc1c92ca8b67d865dd8a401e160e23e9c4ef3fd677"
+hash = "e65a2031934b59abcdf8e3682ff4d7029dada5858bca9d4fe054474b896e2726"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "65ddd350b9f363452d76643d3939c40b18610988c335c79843df4ea7d141ea32"
+hash = "3d597bb2325fd10e05a12be84f45eff5033bba094d35aade9af9861826f09721"
 metafile = true
 
 [[files]]

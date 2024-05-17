@@ -39,6 +39,11 @@
                 "keys": ""
             }
         },
+        "temp_disable": {
+            "main": {
+                "keys": ""
+			}
+		},
         "scroll_auto_pickup_next_for_single": false
     },
     "Hotkeys": {
