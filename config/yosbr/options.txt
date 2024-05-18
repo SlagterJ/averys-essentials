@@ -11,7 +11,7 @@ narratorHotkey:false
 gamma:1.0
 guiScale:2
 maxFps:260
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","itemswapper:default","itemswapper:experimental_addon"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","itemswapper:default","itemswapper:experimental_addon","file/XKRD红显3.3for1.20.2-1.20.5.zip"]
 incompatibleResourcePacks:[]
 advancedItemTooltips:true
 tutorialStep:none

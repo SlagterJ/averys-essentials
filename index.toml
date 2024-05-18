@@ -50,7 +50,7 @@ hash = "c01659d942f7fd23bbc78d9a2f352e9ce586d9c3fd40cbf59b76fcaed1af9a48"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "cc01cf0b9bcb648c86b034c83b74453298bca96fae31ff3ab8b1c9e167dbdc37"
+hash = "f367a99efc03feff560b1ef02a0bbe0f0c27ae93115eef23dc1e6a37eaf83b89"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "2b28d0ac540b0c498003fc24f7724c8ed03798728be55a6feb22c689eb2d04fb"
+hash = "c7e2d8e14bae5fab9fcef19a01af0f12de90f906d088ff047a0b3d3ab257a5fc"
 metafile = true
 
 [[files]]
