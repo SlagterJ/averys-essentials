@@ -313,6 +313,11 @@ hash = "46775cb51714cb624ab336889c25c29945998c67b8f32f8fb11e9fb7ecf50c67"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "1ec61a0b81150becbb6743bd4ff9251bc74d4eec0613898304ec614733318221"
+metafile = true
+
+[[files]]
 file = "mods/litematica-printer.pw.toml"
 hash = "f3c02f2f5435126ef37b334e159c74ae4003eafba7c703d755931243121fad3e"
 metafile = true
@@ -420,6 +425,11 @@ metafile = true
 [[files]]
 file = "mods/replaymod.pw.toml"
 hash = "89d0605e73d81cd1d346e84fcb0daa37169f3aa61e95e306462f4581def43912"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "52a2bff89d0e2d2ba6001f8598837208885f55badd8a85d32cdad892be7e6ec2"
 metafile = true
 
 [[files]]
