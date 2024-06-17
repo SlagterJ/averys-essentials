@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "55a6e99e45313cb3d8bea34f1d7699bb2f4cbc71ad94ef193af0e98254bc67b0"
+hash = "0f6f9ab2920de6dc3cdfdd75ce29803a9a9c62680142b51f68bcb22718930f85"
 metafile = true
 
 [[files]]
