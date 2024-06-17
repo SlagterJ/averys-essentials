@@ -78,11 +78,6 @@ hash = "a250b0920d7b0ef845e257196e09e61b8ea2a66a66c1139fc469bf86dfba24db"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "31da0d40daba6f88d50d18ae5565aee6996657bcc34138f75622dd8f582385f6"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -100,11 +95,6 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "82b20a5c104de33dc01364ff2bf1354132327d085a3dc10954b5ea0ff3d53f51"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "e2c268027d63e997ef750bcbc76e9ee29c775b7121a0be28a121bc4f332a7092"
 metafile = true
 
 [[files]]
@@ -140,11 +130,6 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "a44e6eac50227e4346d507836214f8ec462e74a264307253ec19bd3343ad0c7f"
-metafile = true
-
-[[files]]
-file = "mods/caxton.pw.toml"
-hash = "2faee95f643b08c9e34bd2f5cf402c73947149b5132147b6e2e5ca347a2c96df"
 metafile = true
 
 [[files]]
@@ -208,11 +193,6 @@ hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
 metafile = true
 
 [[files]]
-file = "mods/emuno.pw.toml"
-hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "1c0633f52455c5c6db31b4d926acbbaa0890d771177b55e33eb245a7bc63b635"
 metafile = true
@@ -250,11 +230,6 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "4d979c0f0902b82fc22fc60b741d3a9ce8331de9ffcc4f54658af92ff8ff8a81"
-metafile = true
-
-[[files]]
-file = "mods/fadeless.pw.toml"
-hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
 
 [[files]]
@@ -313,11 +288,6 @@ hash = "46775cb51714cb624ab336889c25c29945998c67b8f32f8fb11e9fb7ecf50c67"
 metafile = true
 
 [[files]]
-file = "mods/libjf.pw.toml"
-hash = "1ec61a0b81150becbb6743bd4ff9251bc74d4eec0613898304ec614733318221"
-metafile = true
-
-[[files]]
 file = "mods/litematica-printer.pw.toml"
 hash = "f3c02f2f5435126ef37b334e159c74ae4003eafba7c703d755931243121fad3e"
 metafile = true
@@ -343,11 +313,6 @@ hash = "d2e031c94440f18885945f97f92e093bbe527d698897f2047daeac166c71d0ff"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
-metafile = true
-
-[[files]]
 file = "mods/minihud.pw.toml"
 hash = "052c3feacfce8e544cd4bc8b5abdc2283b9fa774a6993f337dee330d6123baba"
 metafile = true
@@ -355,11 +320,6 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
-metafile = true
-
-[[files]]
-file = "mods/moddetectionpreventer.pw.toml"
-hash = "afab2fbd384fd1f093b7b6d1500d3227c129223b4a6e2ee62ed43b63bfae8f1d"
 metafile = true
 
 [[files]]
@@ -385,11 +345,6 @@ metafile = true
 [[files]]
 file = "mods/no-night-vision-flickering.pw.toml"
 hash = "4f818e0cf25d689e726ac5b6ff3b95c65db03046beb447981a9d049ec388d30b"
-metafile = true
-
-[[files]]
-file = "mods/no-resource-pack-warnings.pw.toml"
-hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
 
 [[files]]
@@ -425,11 +380,6 @@ metafile = true
 [[files]]
 file = "mods/replaymod.pw.toml"
 hash = "89d0605e73d81cd1d346e84fcb0daa37169f3aa61e95e306462f4581def43912"
-metafile = true
-
-[[files]]
-file = "mods/respackopts.pw.toml"
-hash = "52a2bff89d0e2d2ba6001f8598837208885f55badd8a85d32cdad892be7e6ec2"
 metafile = true
 
 [[files]]
