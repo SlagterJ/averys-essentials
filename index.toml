@@ -398,11 +398,6 @@ hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true
 
 [[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "71164245f9e06a916689d4683bd15dec40effbb1a748e353318c243bbee4924e"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
