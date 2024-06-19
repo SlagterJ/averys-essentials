@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "ed7ef0fe7cb072b18011af64a57c70867ddea6f648a2d37f40de80ea4d76b26e"
+hash = "68287239eeb882da812ca7def7f7645872ff685dd0d800d9a285057f4038fa05"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
+hash = "d6aecbaf1fbfa8c4bd57184d515892c40f6fd00ed9c265468059d72c028a48aa"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f9186f368f07be8d4f532d3f4fd25535f6d4e7ff9278b0e7e48f984807da016b"
+hash = "8ef792d3eeb1e5d220a01ba035c887afc4cfd06f8b5daffe2770bdb6a6bef512"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "3cdbb295ae8d3cb41a23d285480a4eca02717f991b1acf13c2e59d4e1eaa1948"
+hash = "82c553424fa21eeaa91c957dd442f86a473f8dd749f75f55badb6a6dd00cd920"
 metafile = true
 
 [[files]]
