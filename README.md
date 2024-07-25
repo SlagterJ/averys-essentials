@@ -42,10 +42,13 @@ necessary ask the server moderators as use of this modpack could be reason for t
 
 The following mods are not on Modrinth, so their credits are listed here:
 
-- [Litematica - Masady](https://www.curseforge.com/minecraft/mc-mods/litematica)
-- [MiniHUD - Masady](https://www.curseforge.com/minecraft/mc-mods/minihud)
-- [Tweakeroo - Masady](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
-- [Item Scroller - Masady](https://www.curseforge.com/minecraft/mc-mods/item-scroller)
+- [Carpet - Gnembon](https://www.curseforge.com/minecraft/mc-mods/carpet)
+- [Carpet Extra - Gnembon](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
+- [Litematica - Masady (original), Sakura Ryoko (update)](https://github.com/sakura-ryoko/litematica)
+- [MiniHUD - Masady (original), Sakura Ryoko (update)](https://github.com/sakura-ryoko/minihud)
+- [Tweakeroo - Masady (original), Sakura Ryoko (update)](https://github.com/sakura-ryoko/tweakeroo)
+- [Item Scroller - Masady (original), Sakura Ryoko (update)](https://github.com/sakura-ryoko/itemscroller)
+- [Syncmatica - End-Tech (original), Sakura Ryoko (update)](https://github.com/sakura-ryoko/syncmatica)
 
 These mods are included with permission from their authors or licenses. If any author has problems with me
 including their mod(s) in this modpack, feel free to contact me and I will remove it as soon as possible.
