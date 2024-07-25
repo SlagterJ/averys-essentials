@@ -9,10 +9,6 @@ file = "config/yosbr/config/capes.json5"
 hash = "b2713b0ea64ce3f114d0712b7c5dbe6da95ce1fd44a1a97494300294231e8bd0"
 
 [[files]]
-file = "config/yosbr/config/chatpatches.json"
-hash = "fdfa3e488489ad1068fd97cdb3372bcab6f03b74b79f405b32026486d4d9ad04"
-
-[[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "893aec85a0c63123dcb70de5633f70d104e3e2b6a1384206c1aea05fc99d8beb"
 
@@ -415,6 +411,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "f05dedd6fc9f8e3ace51215fb47269a4919870a15c6c166c96c79b87bb9180c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/programmer-art-fix.pw.toml"
+hash = "8fb2c15253696b09282a9dc9da85f21c6fbd65dc34da7136970c1be5977cbcb9"
 metafile = true
 
 [[files]]
