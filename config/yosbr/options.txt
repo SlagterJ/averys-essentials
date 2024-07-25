@@ -9,9 +9,8 @@ screenEffectScale:0.0
 darknessEffectScale:0.0
 narratorHotkey:false
 gamma:1.0
-guiScale:2
 maxFps:260
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","itemswapper:default","itemswapper:experimental_addon","file/XKRD红显3.3for1.20.2-1.20.5.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","itemswapper:default"]
 incompatibleResourcePacks:[]
 advancedItemTooltips:true
 tutorialStep:none
@@ -20,10 +19,12 @@ joinedFirstServer:true
 telemetryOptInExtra:false
 onboardAccessibility:false
 key_key.socialInteractions:key.keyboard.unknown
+key_key.saveToolbarActivator:key.keyboard.x
+key_key.loadToolbarActivator:key.keyboard.z
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.unknown
-key_key.amecs.toggle_auto_jump:key.keyboard.unknown
+key_key.camerautils.zoom:key.keyboard.c
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.itemswapper.itemswitcher:key.keyboard.v
 key_key.optigui.inspect:key.keyboard.unknown
