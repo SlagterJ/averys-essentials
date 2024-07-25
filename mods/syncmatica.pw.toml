@@ -1,13 +1,7 @@
-name = "Syncmatica"
-filename = "syncmatica-1.20.2-0.3.11.jar"
-side = "both"
+name = "syncmatica"
+filename = "syncmatica-fabric-1.21-0.3.12-sakura.5.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/bfneejKo/versions/MQ7NrqXP/syncmatica-1.20.2-0.3.11.jar"
-hash-format = "sha1"
-hash = "250830b916477593e0bdd9bc58d34f8b7f7e3ab7"
-
-[update]
-[update.modrinth]
-mod-id = "bfneejKo"
-version = "MQ7NrqXP"
+url = "https://github.com/sakura-ryoko/syncmatica/releases/download/1.21-sakura.5/syncmatica-fabric-1.21-0.3.12-sakura.5.jar"
+hash-format = "sha256"
+hash = "5bec8c2a3ce760797b0a9059b4b971d277f98f990f3a9cbcba7661c92171fffd"
