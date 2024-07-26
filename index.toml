@@ -49,6 +49,11 @@ file = "config/yosbr/options.txt"
 hash = "74b8980537a6f6fd1883ace820687ae0d7dddcc34ebc768a298892ee806096e1"
 
 [[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "93b698c53e5882657d76f007da2a46a1baea4ece400d7d5e4e76c6680f790c4d"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
@@ -315,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b947b56e9279adb7058832f2dc45d6f2e14fe616f61a836cd4966b58633f113d"
+hash = "e49e4a253e23c9203443c7e615ef744353963523dd4659aa80f4733142282ebe"
 metafile = true
 
 [[files]]
