@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "890e39b05a32a0b524c0c9be9bb51564b6623a0431ea0d2aa5303047b1ab8f25"
+hash = "75ca2ee6cb2dd4809e2f074eeb681d50efe82b3123d4da9e3bf212412ff5f15f"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "72eefd34f33e5d0515e5ded4407c7b35146e57c59852d4f6ed1e993d6fb6164a"
+hash = "1fb35950708c9d175558b05ec68487ff22c7b965dc394a62e58da02d7b28dfcc"
 metafile = true
 
 [[files]]
@@ -270,12 +270,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "3adb485538d0a5330addbe3c2632914061a0dfb38a56422f30b5409b4cfcd2ec"
+hash = "55a0ec75b3b0129410f4b6456a5245f09e6e057b9ff97b8ca487770819fba535"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "ead2f74ad29bfa42b1d7ea21266bc21b3ab4ea07f314ea8557dcca335ef94389"
+hash = "7aa0633ed3d647d27f91c5aae9e833df5021091caf3ed7da6973a5988ee851e3"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
+hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e49e4a253e23c9203443c7e615ef744353963523dd4659aa80f4733142282ebe"
+hash = "815c152012af2f6c0df9b3578aa4e99e25a2087aa2512b4ba95cf79d7c1daf68"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "fa9e3c02d41515c7ccf60b63262bc15f103a24aa5552a885f467ee9217db2b11"
+hash = "2e9e0a8e0ac41dfe7ea59c1ce059cce18cf0d10f0907ea42fbea0c6d56d3bdd4"
 metafile = true
 
 [[files]]
@@ -425,5 +425,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "8512a8da6c3f08d233b3af1a4c94a1338828b0735c4b4fd8541acb7f589505b3"
+hash = "585963a78adbd28f86e62de2151abc442b9a003450cd7959068c1482008feee6"
 metafile = true
