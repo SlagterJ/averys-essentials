@@ -37,6 +37,10 @@ file = "config/yosbr/config/replaymod.json"
 hash = "b0de7bcbab3c360450369bba7d647562c7610c9f11e9fb44bbd1e3fdb8460d08"
 
 [[files]]
+file = "config/yosbr/config/resourcify.json"
+hash = "c48bb0e636bc45ccf6ff0956b31336463334adcc2e36bf7f83d60b98ca067d2a"
+
+[[files]]
 file = "config/yosbr/config/rrls.toml"
 hash = "0d5ec9130dd8f8ec24ef6ff740aa48ad286749a7e4746e95397e4b70783b7f2c"
 
@@ -334,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "239e24977c1dda258f9da6fba8ed1c2d83ddbe7bad03a279e3eac71a0426f656"
+hash = "c4771858341071e3a63e898188b56c8ee17c7aedc7db3dea5537d3bad1457628"
 metafile = true
 
 [[files]]
@@ -355,6 +359,11 @@ metafile = true
 [[files]]
 file = "mods/replaymod.pw.toml"
 hash = "c99ea25a5698ba5d286cc5df09d10fb5737f955981776694519a5ccd43119f58"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "94a04d1f3e30ce411ae630d33fe386eaeedf4153b3f6b5985c2774b111455278"
 metafile = true
 
 [[files]]
