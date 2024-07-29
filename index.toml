@@ -9,6 +9,10 @@ file = "config/yosbr/config/capes.json5"
 hash = "b2713b0ea64ce3f114d0712b7c5dbe6da95ce1fd44a1a97494300294231e8bd0"
 
 [[files]]
+file = "config/yosbr/config/chatpatches.json"
+hash = "fdfa3e488489ad1068fd97cdb3372bcab6f03b74b79f405b32026486d4d9ad04"
+
+[[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "893aec85a0c63123dcb70de5633f70d104e3e2b6a1384206c1aea05fc99d8beb"
 
@@ -109,6 +113,11 @@ hash = "48c6a4e310601532ac6a9e7f2f814128f75af9a541aee5a6e39d2d5475d967af"
 metafile = true
 
 [[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "6cd8354be5fbe8d9c369c0702156cc39352acfe36be593974a0d7ffec75283cf"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
@@ -135,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "471ae9c39007497d4c1d3f3f1a85334593ca9fdfb6521093e6faa2c01b74f624"
+hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
 metafile = true
 
 [[files]]
@@ -220,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "664b83356f5ca10ab286db442854032fa4f9d912d54b5f63452468a380335e8e"
+hash = "107ccada729331cde39b901432e7cd572dc21431c34049e86c4bfb1473b2897a"
 metafile = true
 
 [[files]]
@@ -245,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "4ba4a6bfb2a8a35f378cfff1ea81a46d08ee1c3ab344be34cb792aa0e5418ed2"
+hash = "aba643da33f146b46820ad14d0e7b3a61c3e7becba2ada9032218e2f0ca655d1"
 metafile = true
 
 [[files]]
@@ -275,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "7aa0633ed3d647d27f91c5aae9e833df5021091caf3ed7da6973a5988ee851e3"
+hash = "ffca51646e8167ce954d997b86e98eb48cbc1e6f637e868ac24bfd4f9f91ebea"
 metafile = true
 
 [[files]]
@@ -320,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "815c152012af2f6c0df9b3578aa4e99e25a2087aa2512b4ba95cf79d7c1daf68"
+hash = "239e24977c1dda258f9da6fba8ed1c2d83ddbe7bad03a279e3eac71a0426f656"
 metafile = true
 
 [[files]]
@@ -375,12 +384,12 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "00f99d9ab44814e87d3c54a1bd4ec64089f9a07721f2d207ee116327c313fb2f"
+hash = "1eb61e8a078bb435f206bcc74da95d3eb8ce80e7cb04ccf673ce27a75e110472"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "2e9e0a8e0ac41dfe7ea59c1ce059cce18cf0d10f0907ea42fbea0c6d56d3bdd4"
+hash = "c6dca2b0ea7ecc64721e0634af1be16dfec06c6efef7dace4838b1c289701fbe"
 metafile = true
 
 [[files]]
@@ -390,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "371a9c6ef685e489aebdf176b9efd9dcebafad2ec14250adbb18043fa4d270e4"
+hash = "834ed6adee2bbb4872ffbb2db846d9148b057303d86f98087724c42d306666ec"
 metafile = true
 
 [[files]]
@@ -401,6 +410,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "e9f628cc8d3a658a9b0ceb2272993d0dd9f5736aad1fb8178e6071cd63a8438e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true
 
 [[files]]
