@@ -25,6 +25,7 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.unknown
 key_key.camerautils.zoom:key.keyboard.c
+key_key.commandkeys.open_config:key.keyboard.semicolon
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.itemswapper.itemswitcher:key.keyboard.v
 key_key.optigui.inspect:key.keyboard.unknown
