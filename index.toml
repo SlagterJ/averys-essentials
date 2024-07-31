@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-utils.pw.toml"
-hash = "ddb3a3367de04370f824327883018f49a533683d08990b14038778d90130732f"
+hash = "c990ddb3557dfa5ba80f0eabf197d1a9cc6775a48af7f7cf871f1c900ea6482f"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
+hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "ffca51646e8167ce954d997b86e98eb48cbc1e6f637e868ac24bfd4f9f91ebea"
+hash = "b6babe689ce90193020a8d520c8c637b2fd1338cdb74f6c127fa9242f1a01671"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c4771858341071e3a63e898188b56c8ee17c7aedc7db3dea5537d3bad1457628"
+hash = "b4344f6b63b8a3c5740b67e428f89988c50dc22a5476fa9a97bcdb2354e7d7ad"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "6d7d1e314add75dbdae15536501766f27fbcfab1b1546fe131aa90db5e3795b6"
+hash = "5ec29149570fdae5f3a94c1a2d9a9798fa289b32043504a5d50540ed39b81d17"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "c6dca2b0ea7ecc64721e0634af1be16dfec06c6efef7dace4838b1c289701fbe"
+hash = "ae460a77b1deb20a7599f056065a3fd1bec04ecdd8d742ab12055c10a3d5eb9b"
 metafile = true
 
 [[files]]
