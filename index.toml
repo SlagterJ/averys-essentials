@@ -77,6 +77,16 @@ hash = "eff006789cdd400f7a5fa60485270a0aee77c5947ac056fdb2ddcd43017612d0"
 metafile = true
 
 [[files]]
+file = "mods/better-suggestions.pw.toml"
+hash = "b45418c78f3c9846a5b29c3001115b4f69fa684b5ac29d9b520a908181648732"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "0d1c2ae16cf9f53cbe868ca0c8444618d7f5ddc6ececef3db21bd27d354c263d"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7c801232a6e7b3930c6c6f47f2c4cd77a539f28bc41e6d54e1710c2736d8a46f"
 metafile = true
@@ -317,6 +327,11 @@ hash = "cce89b418e7dd00df7d58eb6556472385aff2f2934c4bfde1b7a2dcd3b1d17cc"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "207aee1f03c198f046ec6a3c29b6765730a550e9bffb6574c9dbbd0c610033ca"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
@@ -338,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b4344f6b63b8a3c5740b67e428f89988c50dc22a5476fa9a97bcdb2354e7d7ad"
+hash = "bd7da340514012cef1570514e012d7c9daec1090e7b6dbc09cde9e0a4a95b4b8"
 metafile = true
 
 [[files]]
@@ -413,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "834ed6adee2bbb4872ffbb2db846d9148b057303d86f98087724c42d306666ec"
+hash = "86eac14f646c8fc6f194f9c9257c96b7c632a11ccc607885e0c135476296e6bd"
 metafile = true
 
 [[files]]
