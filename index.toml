@@ -71,6 +71,11 @@ hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
 
 [[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "9e1a64f36c8ea435a5b3ae3074f3e18182b4ffd3e1411f0fe92825f3944f5364"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "53288122b2e4125cbe80a7673160a3d3276007d2c1ec103524b39a26085622b9"
 metafile = true
@@ -152,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "bf99e1b4da73e060ee177b9aa2a0e708630a79bcd268b762bdcd0037db3618e0"
+hash = "d60defb5acead2d497790880a31e737fb1b9ec4d578ea2485178d462c7b26a9b"
 metafile = true
 
 [[files]]
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
+hash = "38c812ec803125ecc0b62e72c53cec8dcbd6554e9c43123bf97e37e62b734a8b"
 metafile = true
 
 [[files]]
@@ -296,6 +301,11 @@ hash = "f004eac1859218b35a865698a68000b21806709f02b54b2a2ef55ff04a793328"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "63be9ed95675ead31c52e301bd5c87378ca09dc17e895d135a6861ba957c5260"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
 metafile = true
@@ -357,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d228891568da37addad20510273813c48985d0c6ea8d7cd89a6d0b4a41556f01"
+hash = "c819a9e822059da6fecbeaf4c05f13c8e9c2f4e6bc33dc445dce6b67a1ef0ea8"
 metafile = true
 
 [[files]]
@@ -432,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "f47445deaf719928412490e809ed384f95774e072259b20e3dd1db7e704e9231"
+hash = "9cfea7a43721026f313a6e8ece1c99179ab3c6b50e9862be2a94f90f7f60eee4"
 metafile = true
 
 [[files]]
