@@ -58,7 +58,7 @@ hash = "c01659d942f7fd23bbc78d9a2f352e9ce586d9c3fd40cbf59b76fcaed1af9a48"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "cf47898849ea6f16f0444d54dc0768524b42146f78d1c74947f63e1ad6b39369"
+hash = "58d65e6f171c48a7e72fae6165deb94a58695c11b9b8ae45d7bc538f7bceb05d"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -418,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "24ca44f204ce1904fa79e0fab79c101831716b3197a726f71abf6e5d3e621f80"
+metafile = true
+
+[[files]]
+file = "mods/status.pw.toml"
+hash = "f3d3a8f4b1cab9224f653c9b603e20259f8856ac36319aa4fefecfd76b02da0b"
 metafile = true
 
 [[files]]

@@ -29,6 +29,7 @@ key_key.commandkeys.open_config:key.keyboard.semicolon
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.itemswapper.itemswitcher:key.keyboard.v
 key_key.optigui.inspect:key.keyboard.unknown
+key_key.status_gui:key.keyboard.apostrophe
 key_key.mute_microphone:key.keyboard.comma
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
