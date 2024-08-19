@@ -1,5 +1,6 @@
 {
     "ModSettings": {
+        "sort_order": "RAW_ID",
         "highlight_foused_items": {
             "value": false
         },
@@ -17,6 +18,11 @@
             "value": false
         },
         "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "auto_refill_enable_horbar_indicator_icons": {
+            "value": false
+        }
     },
     "ScrollSettings": {
         "scroll_full_stack": {
@@ -47,6 +53,11 @@
         "scroll_auto_pickup_next_for_single": false
     },
     "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
         "scroll_to_chest": {
             "main": {
                 "keys": ""
