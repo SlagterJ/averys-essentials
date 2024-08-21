@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "be8add109f8f322fba95c7e6cc85c4c0754dc9a8d41d0528dbb3aadaa002b095"
+hash = "4520b638935e4bfb69e8729df6a6c26bde6df3e7423e7a4a2d1669eee7dcf649"
 
 [[files]]
 file = "config/lithium.properties"
@@ -192,17 +192,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "86e971b1f82d63c791f7e7574c0ebfc9d1e4b6a23085257599ded29ed365ce6c"
+hash = "e8cf1bd4eb13233ca3d3bcef35a78976552c89b52d56ece96c5179b1c0188473"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f1cfb6d5b1aeae9d349d909fc3170f60332b6347493543a2e4f1f0801f4a5d4d"
+hash = "8078e4d71da6ead36a6134ba3f5f0b90b53ba6466a176986a644bee3f6c2da5c"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b2af1699d567294bf20e80fd62069f65aca68746a78655984d30332b65ebd5a4"
+hash = "3508403607f441ed70fe3eff44c5095a74df189887fd1a67f6fbcbc2cbe7c458"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "32cd1ffb2d57f8518c0535a0fded59655be8582b45955ebfe6a9e6c14e61e7d9"
+hash = "2301eca5fd55b332f714d8d2d4343363281a4fa2bd67447246cb257fd00e1ceb"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "550824ffd6de56fbc095f5374b70f41916d61279ae7bcba1d82cad6de04eb3e0"
+hash = "a39cd82e397036a3c1d886a0cce33539fa13163358559f229adc6cc7cdb2192b"
 metafile = true
 
 [[files]]
@@ -306,18 +306,28 @@ hash = "63be9ed95675ead31c52e301bd5c87378ca09dc17e895d135a6861ba957c5260"
 metafile = true
 
 [[files]]
+file = "mods/magiclib.pw.toml"
+hash = "3e7d0f905c10085993f03f71ff766f53b82d2a80379c2430d9ab92894410628a"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "55a0ec75b3b0129410f4b6456a5245f09e6e057b9ff97b8ca487770819fba535"
+hash = "7e663e494ca8ab59aae284a75dfb8943d5f74bed1f8d75412902444d4ac9b5ea"
+metafile = true
+
+[[files]]
+file = "mods/masa-gadget.pw.toml"
+hash = "c066890bbb8bbe7828d8966d092db539312eec3fae91de7b7f7c1d2ef4ad8389"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "f5f61005d6b4e9d084c20ed20470599180f7f7c2cc100c3c3b18f6e719d1312b"
+hash = "eeff292e7909e2f78c93dae09e2d2902dcbce0bb2ab26590d8c27c9a9b487d0f"
 metafile = true
 
 [[files]]
@@ -437,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "dd2a2b41bbe6a4509efb7ddf1459205dfa5b0d0137c747b49294366c4dfe5e1f"
+hash = "cbcdf97e1c442a6b0c51dbae6f5fbf86711d9cdc6ab977782e7f0c0e0608911b"
 metafile = true
 
 [[files]]
