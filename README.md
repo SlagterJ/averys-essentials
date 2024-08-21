@@ -44,10 +44,6 @@ The following mods are not on Modrinth, so their credits are listed here:
 
 - [Carpet - Gnembon](https://www.curseforge.com/minecraft/mc-mods/carpet)
 - [Carpet Extra - Gnembon](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
-- [Litematica - Masady (original), Sakura Ryoko (update)](https://github.com/sakura-ryoko/litematica)
-- [MiniHUD - Masady (original), Sakura Ryoko (update)](https://github.com/sakura-ryoko/minihud)
-- [Tweakeroo - Masady (original), Sakura Ryoko (update)](https://github.com/sakura-ryoko/tweakeroo)
-- [Item Scroller - Masady (original), Sakura Ryoko (update)](https://github.com/sakura-ryoko/itemscroller)
 - [Syncmatica - End-Tech (original), Sakura Ryoko (update)](https://github.com/sakura-ryoko/syncmatica)
 
 These mods are included with permission from their authors or licenses. If any author has problems with me
