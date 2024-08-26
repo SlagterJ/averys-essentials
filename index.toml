@@ -72,7 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
-hash = "9e1a64f36c8ea435a5b3ae3074f3e18182b4ffd3e1411f0fe92825f3944f5364"
+hash = "51d2e5b574f99ccbcc4ea189c62bdddbb069bba6e9df1d51b313670398325ba3"
+metafile = true
+
+[[files]]
+file = "mods/auto-lectern.pw.toml"
+hash = "4e9d3d6293bbc4d77eeb1959f2e30592777f2f9f3103672725526b7e47a9898f"
 metafile = true
 
 [[files]]
@@ -102,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "5e0adbaf5a22a684b1691eea9a8c4daa6b1eb2b5d821ac83c558ef015d15d51a"
+hash = "c455d55e736f90f6a09701594dee2342e91c77b7f230f0ff73090d7ead339629"
 metafile = true
 
 [[files]]
@@ -122,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "b63f969abb5b4c7b9e57664fd867171b530864ad734e6c512abc680edad8b342"
+hash = "1f604a5bbaa5b0e5a51e324742f8622a59b593d7de727a88e333a0ddca36e305"
 metafile = true
 
 [[files]]
@@ -202,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3508403607f441ed70fe3eff44c5095a74df189887fd1a67f6fbcbc2cbe7c458"
+hash = "479dc1be7b22163d5a4f13c3c156204bce08d2a5310412e8d8f237486d92ae94"
 metafile = true
 
 [[files]]
@@ -217,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
+hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
@@ -262,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
+hash = "94fa47ee154338d1bd09b98d242ef7f7c56fadceb941cd4ee583b0edc046d209"
 metafile = true
 
 [[files]]
@@ -342,12 +347,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "cce89b418e7dd00df7d58eb6556472385aff2f2934c4bfde1b7a2dcd3b1d17cc"
+hash = "ba816cc8fb98e62b2e3b3b33e6ea63664b3fd505e6305aa9dd4080c1f1a29c9a"
 metafile = true
 
 [[files]]
@@ -377,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c819a9e822059da6fecbeaf4c05f13c8e9c2f4e6bc33dc445dce6b67a1ef0ea8"
+hash = "6e90ff8eb584db6a95ab4bfe0aca99c4a53e38aa4aad1dc270d450b41b50095b"
 metafile = true
 
 [[files]]
@@ -387,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
+hash = "d6d75c816faf28869d9b0da6c417df455aa521e9704107da3dcfb2cd6c02da1f"
 metafile = true
 
 [[files]]
@@ -417,12 +422,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
+hash = "3ea2e4d3f05aeb212b750f001c94db833dc34a7b292abefbc570bfb3b4d27f80"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
+hash = "b82effb4e956abefdffab14dcdb34de3124ea02c57ca0586d73be0effd68daa6"
 metafile = true
 
 [[files]]
@@ -457,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "0d2d5eb3579e5184c796f06358b31b92befdf38f19dd731e9d591a87937aa7da"
+hash = "540207824a13ecc4fba0014b1687afeadf8ea462009d1a578e5cebb5794e51b8"
 metafile = true
 
 [[files]]
@@ -467,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e9f628cc8d3a658a9b0ceb2272993d0dd9f5736aad1fb8178e6071cd63a8438e"
+hash = "c06ffc9de8c8b6c1e9099c05fcfa94d9ae9bff768ff138798ab3a2da545995d5"
 metafile = true
 
 [[files]]
@@ -486,16 +491,6 @@ hash = "e56877d6529e0e035ff2c88d796e54931ec4e848733a8c07aa5ea268539c5bfa"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "f05dedd6fc9f8e3ace51215fb47269a4919870a15c6c166c96c79b87bb9180c4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/programmer-art-fix.pw.toml"
-hash = "8fb2c15253696b09282a9dc9da85f21c6fbd65dc34da7136970c1be5977cbcb9"
-metafile = true
-
-[[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "f8e865c4d22ea5044d9601fda35da6858194b49a5619f7982aab2e2831f0b8f0"
+hash = "1d9401360096b6bd308a7b7b5ee969e5bf773ab7b02e0990e0d5592e458b7f08"
 metafile = true
