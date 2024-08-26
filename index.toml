@@ -71,6 +71,11 @@ hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "af482cdaf7c5d9d5481e7cd789d98ebc17f47e4565a28af6c6365aef896d1404"
+metafile = true
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "51d2e5b574f99ccbcc4ea189c62bdddbb069bba6e9df1d51b313670398325ba3"
 metafile = true
@@ -382,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6e90ff8eb584db6a95ab4bfe0aca99c4a53e38aa4aad1dc270d450b41b50095b"
+hash = "f26ea67a60ff613351a2584194917fb9746edd103f01957f0279e8d7e47b2214"
 metafile = true
 
 [[files]]
@@ -438,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/status.pw.toml"
 hash = "f3d3a8f4b1cab9224f653c9b603e20259f8856ac36319aa4fefecfd76b02da0b"
+metafile = true
+
+[[files]]
+file = "mods/stendhal.pw.toml"
+hash = "6533e7eaad68cad764272e5c4857a075ceb8a149546fec0d16179ba2a1a49fee"
 metafile = true
 
 [[files]]
