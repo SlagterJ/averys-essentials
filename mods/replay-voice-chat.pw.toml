@@ -1,13 +1,13 @@
 name = "Replay Voice Chat"
-filename = "replayvoicechat-fabric-1.21-1.3.8.jar"
+filename = "replayvoicechat-fabric-1.21.1-1.3.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yI6ANuOK/versions/8iFaZgjd/replayvoicechat-fabric-1.21-1.3.8.jar"
+url = "https://cdn.modrinth.com/data/yI6ANuOK/versions/VCfI8Eha/replayvoicechat-fabric-1.21.1-1.3.8.jar"
 hash-format = "sha1"
-hash = "78930291832f2c01bd67810cbf635340b3304d68"
+hash = "888a726dbf509b8a0ce42b6eb86cbecd1a032ade"
 
 [update]
 [update.modrinth]
 mod-id = "yI6ANuOK"
-version = "8iFaZgjd"
+version = "VCfI8Eha"

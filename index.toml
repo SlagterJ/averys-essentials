@@ -13,10 +13,6 @@ file = "config/yosbr/config/capes.json5"
 hash = "b2713b0ea64ce3f114d0712b7c5dbe6da95ce1fd44a1a97494300294231e8bd0"
 
 [[files]]
-file = "config/yosbr/config/chatpatches.json"
-hash = "fdfa3e488489ad1068fd97cdb3372bcab6f03b74b79f405b32026486d4d9ad04"
-
-[[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "893aec85a0c63123dcb70de5633f70d104e3e2b6a1384206c1aea05fc99d8beb"
 
@@ -58,7 +54,7 @@ hash = "c01659d942f7fd23bbc78d9a2f352e9ce586d9c3fd40cbf59b76fcaed1af9a48"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "58d65e6f171c48a7e72fae6165deb94a58695c11b9b8ae45d7bc538f7bceb05d"
+hash = "5f8382825e01169a65a9da9eed2dccf3f7a6cd03ba225b41c6b57f31003f68f4"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -82,12 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/auto-lectern.pw.toml"
-hash = "4e9d3d6293bbc4d77eeb1959f2e30592777f2f9f3103672725526b7e47a9898f"
-metafile = true
-
-[[files]]
-file = "mods/axiom.pw.toml"
-hash = "53288122b2e4125cbe80a7673160a3d3276007d2c1ec103524b39a26085622b9"
+hash = "6d18d0ee77431078c4cb509969df230fb2d3398610d80d5f4a106f9905a54165"
 metafile = true
 
 [[files]]
@@ -107,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "7c801232a6e7b3930c6c6f47f2c4cd77a539f28bc41e6d54e1710c2736d8a46f"
+hash = "7e149f7e7c028f692a331b828b9ad8b84ca2029c8ffe765e19f7a647653e77a9"
 metafile = true
 
 [[files]]
@@ -143,11 +134,6 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "48c6a4e310601532ac6a9e7f2f814128f75af9a541aee5a6e39d2d5475d967af"
-metafile = true
-
-[[files]]
-file = "mods/chatpatches.pw.toml"
-hash = "6cd8354be5fbe8d9c369c0702156cc39352acfe36be593974a0d7ffec75283cf"
 metafile = true
 
 [[files]]
@@ -212,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "479dc1be7b22163d5a4f13c3c156204bce08d2a5310412e8d8f237486d92ae94"
+hash = "9855e0fe709e658c204741cb02b9b157ec874fc6f2645888c05e65e2911a495a"
 metafile = true
 
 [[files]]
@@ -222,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
+hash = "e3854a5bf8296a33ef7e2dcae13689b0923976a3b949564aebc27143e71d47fc"
 metafile = true
 
 [[files]]
@@ -281,11 +267,6 @@ hash = "2301eca5fd55b332f714d8d2d4343363281a4fa2bd67447246cb257fd00e1ceb"
 metafile = true
 
 [[files]]
-file = "mods/itemswapper.pw.toml"
-hash = "d9420001c05adbd6a2372922d37106a4e8c900e7c811c23655e4e1f6a0b7f5de"
-metafile = true
-
-[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "fd77358f512f332ee2113e5fd9d8929ff9fc5952c78f3693c98e27b0de77fef9"
 metafile = true
@@ -307,17 +288,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f004eac1859218b35a865698a68000b21806709f02b54b2a2ef55ff04a793328"
+hash = "b3b33c53f8356928f86223f26eaebd7a266d610f8628e5077cda196192b0b7e4"
 metafile = true
 
 [[files]]
 file = "mods/log-begone.pw.toml"
-hash = "63be9ed95675ead31c52e301bd5c87378ca09dc17e895d135a6861ba957c5260"
-metafile = true
-
-[[files]]
-file = "mods/magiclib.pw.toml"
-hash = "3e7d0f905c10085993f03f71ff766f53b82d2a80379c2430d9ab92894410628a"
+hash = "113467e8890ef3558564afe84a88e2e3910f7878f716decf6b79a5966b3063de"
 metafile = true
 
 [[files]]
@@ -328,11 +304,6 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "7e663e494ca8ab59aae284a75dfb8943d5f74bed1f8d75412902444d4ac9b5ea"
-metafile = true
-
-[[files]]
-file = "mods/masa-gadget.pw.toml"
-hash = "c066890bbb8bbe7828d8966d092db539312eec3fae91de7b7f7c1d2ef4ad8389"
 metafile = true
 
 [[files]]
@@ -347,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ebbaf07d4e04f172081d5f4bec47837ae1008c5a6dbedc32f7ba471dd3d004cd"
+hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
 metafile = true
 
 [[files]]
@@ -362,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "207aee1f03c198f046ec6a3c29b6765730a550e9bffb6574c9dbbd0c610033ca"
+hash = "c2b91ded8ad6d276f49e30162c201895240e1bf68e8bf7051a2e9a8e56c23963"
 metafile = true
 
 [[files]]
@@ -402,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/replay-voice-chat.pw.toml"
-hash = "7f0c810cdb21d03228b44e2485deed53cadb85602fc9271eda6ad6d558e5e966"
+hash = "6315af033ea79056350afd283d975403a3914b748d672318df68e5d6dcbfb568"
 metafile = true
 
 [[files]]
@@ -493,11 +464,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-metafile = true
-
-[[files]]
-file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "e56877d6529e0e035ff2c88d796e54931ec4e848733a8c07aa5ea268539c5bfa"
 metafile = true
 
 [[files]]
