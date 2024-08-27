@@ -45,6 +45,10 @@ file = "config/yosbr/config/rrls.toml"
 hash = "0d5ec9130dd8f8ec24ef6ff740aa48ad286749a7e4746e95397e4b70783b7f2c"
 
 [[files]]
+file = "config/yosbr/config/stendhal/stendhal.properties"
+hash = "6d3e7d6cff369503c8f6942e60d3ec85e34d524cf40ff8c7f9eef97ee2f24eb4"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "1828085407931efe6c962f0944645b87f41812a7e95e1cd321ccf43217778899"
 
