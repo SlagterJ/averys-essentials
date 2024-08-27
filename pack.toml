@@ -6,11 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "306d0c8c41bed83d4dfd443d998b6dcf05980ec94e120cd9c17f65eb0ad04f99"
+hash = "2904c4a9289181ccdde67aca63420aa61ca31579f08ae00923076d916a07dc7e"
 
 [versions]
 fabric = "0.16.3"
 minecraft = "1.21.1"
 
 [options]
-acceptable-game-versions = ["1.21"]
+acceptable-game-versions = ["1.21.1"]

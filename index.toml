@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4520b638935e4bfb69e8729df6a6c26bde6df3e7423e7a4a2d1669eee7dcf649"
+hash = "dc6d381f397c87eefad18d0b2960af3cc5bbb99cb2e353d03cfeba405dc2fc4a"
 
 [[files]]
 file = "config/lithium.properties"
