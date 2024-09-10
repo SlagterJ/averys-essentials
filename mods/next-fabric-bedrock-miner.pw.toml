@@ -1,0 +1,13 @@
+name = "Bedrock Miner"
+filename = "bedrock-miner-1.21-1.2.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/G4udXdNu/versions/TV61sV9X/bedrock-miner-1.21-1.2.21.jar"
+hash-format = "sha1"
+hash = "cfb703627e9b430686758b61a218d89dc1607225"
+
+[update]
+[update.modrinth]
+mod-id = "G4udXdNu"
+version = "TV61sV9X"
