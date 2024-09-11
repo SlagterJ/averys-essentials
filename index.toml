@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "dc6d381f397c87eefad18d0b2960af3cc5bbb99cb2e353d03cfeba405dc2fc4a"
+hash = "af053cc77a3677edfc7ac21e373e8bebeb4503426f990daf25d350292f9f9bb6"
 
 [[files]]
 file = "config/lithium.properties"
@@ -11,6 +11,10 @@ hash = "4466fe46d8d09518944a96f55e2991faf8e30ec7cc2b8d97fabce7c3c5371c51"
 [[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "b2713b0ea64ce3f114d0712b7c5dbe6da95ce1fd44a1a97494300294231e8bd0"
+
+[[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "541349ebbf4a02fda7d19b1a135423c17e27b43e9108ca165d7e2427cef8a0bc"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -58,7 +62,7 @@ hash = "c01659d942f7fd23bbc78d9a2f352e9ce586d9c3fd40cbf59b76fcaed1af9a48"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d3ebfd399227fdf3fca686c0fcb7cd1139a5bf4bc8665419e9176f90daf587d6"
+hash = "2b5f6a6ebcf776a41c7dcb29233147100a08e5e5f5df262f1aadb7442ddeeba8"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -222,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3854a5bf8296a33ef7e2dcae13689b0923976a3b949564aebc27143e71d47fc"
+hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
 metafile = true
 
 [[files]]
@@ -378,6 +382,16 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "d8d16415897778ba9e6bf5cd74920edce456787f48c4e8fc6e2aa1d17fdffdc7"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "695ddf149004a3755dbd34c655e96407d52b6e74c8fce70bdd19d2207fd63a71"
+metafile = true
+
+[[files]]
+file = "mods/peek.pw.toml"
+hash = "5197db9350ec24017e097e38de354ff618990d2e609f7f2e7a8b641448200528"
 metafile = true
 
 [[files]]
