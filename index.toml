@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "e72090114dced07287c02e16ed8f6884a471b336b36535e93003b1780c56e820"
+hash = "3eaacab8a4142e17b6320964dba042b4bf1aa8e4f3ba318e2601aa9750775227"
 metafile = true
 
 [[files]]
@@ -117,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "c455d55e736f90f6a09701594dee2342e91c77b7f230f0ff73090d7ead339629"
+metafile = true
+
+[[files]]
+file = "mods/buildevents.pw.toml"
+hash = "32345ad708c608eb4872568e26de9dd74c1e7da220edbd4d615aa4f632da0a62"
 metafile = true
 
 [[files]]
@@ -216,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "83024fe24a4eee53f070d3da0c9b14e453af60365a1787e02dfa4eac2e1c05ec"
+hash = "dece10f161ad72eb069bc489fd10328b525b8c20858c0c13ff86f66452e2c8cc"
 metafile = true
 
 [[files]]
@@ -446,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1deef8562105a5fecc5c81dad71230892ad28807c7d753b31f7fc8fcdccd6459"
+hash = "a6ba298b74f6cc6d2ed3cf0f4223200cce95251413ac8a0d531d230cd6c7ddd0"
 metafile = true
 
 [[files]]
@@ -496,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "326be8ba9552981795a4237e5efc97661c4eae91313a2b731d5fc3a1451557fa"
+hash = "82e146012b7960311f3cf3b0814bd2eafd037b26e9c9348a0cca80aa60eb75ef"
 metafile = true
 
 [[files]]
@@ -507,11 +512,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c06ffc9de8c8b6c1e9099c05fcfa94d9ae9bff768ff138798ab3a2da545995d5"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true
 
 [[files]]
