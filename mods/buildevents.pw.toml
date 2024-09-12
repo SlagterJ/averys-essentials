@@ -1,0 +1,13 @@
+name = "Build Events"
+filename = "buildevents-1.21-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fzSM8IMo/versions/6CPkc87T/buildevents-1.21-0.4.0.jar"
+hash-format = "sha1"
+hash = "03e5a2ba429f043e8173ed3b7e85fe7478e8d299"
+
+[update]
+[update.modrinth]
+mod-id = "fzSM8IMo"
+version = "6CPkc87T"
