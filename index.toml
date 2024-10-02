@@ -310,6 +310,11 @@ hash = "a39cd82e397036a3c1d886a0cce33539fa13163358559f229adc6cc7cdb2192b"
 metafile = true
 
 [[files]]
+file = "mods/litemoretica.pw.toml"
+hash = "5c12b285c249630da94d7eb017a98f598fc58d05d639cf4b1153157a1739f2ea"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c24fcd33ecd783569879dbe9ecb8cdd1dcc7e00c1f40cda0271100255e155162"
 metafile = true
