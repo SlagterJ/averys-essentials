@@ -4,8 +4,6 @@
 
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/xNGaA9W4)
 
-# The latest 1.21.1 version does not include Axiom as it has not been updated to 1.21.1, use the latest 1.21 version to use Axiom!
-
 Hi, this is Avery's Essentials, a modpack I've made that meets all of my personal necessities because no other modpack could.
 It includes performance mods, Optifine replacement mods and technical mods.
 
