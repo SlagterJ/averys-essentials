@@ -105,11 +105,6 @@ hash = "b45418c78f3c9846a5b29c3001115b4f69fa684b5ac29d9b520a908181648732"
 metafile = true
 
 [[files]]
-file = "mods/bettercommandblockui.pw.toml"
-hash = "d69de5e020139a28ca7b7256ad6f1d598ba09a1b6b051e326fc28261cf4f12b7"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7e149f7e7c028f692a331b828b9ad8b84ca2029c8ffe765e19f7a647653e77a9"
 metafile = true
@@ -176,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "74bd53421141ef30b7aa30aec19e91e7fc70b95c71ebb33536a4afb5dcd3b712"
+hash = "94aaea5c7d7094ae8cf0e2900559ec566c08b0b8f35f2621c2f93fcf6bbdc04a"
 metafile = true
 
 [[files]]
@@ -206,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "bd02cc1b0ee4feea5c920bc2b3858ddb3c3d98ece259507169956fdabb54b759"
+hash = "0d1c4a83f4134086673363602bd86b5883cb4f2ea51f80c3dbb81d86b77e01a0"
 metafile = true
 
 [[files]]
@@ -231,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
+hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
 metafile = true
 
 [[files]]
@@ -411,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "bd8bce6d875a0cdb5a793202a9da9d715164bc9c88ee144aa4bf9b44fec0aa56"
+hash = "2390452b633288cbfff659123a0948fe00829c09df625a3e988857b60a40f1b4"
 metafile = true
 
 [[files]]
@@ -421,12 +416,12 @@ metafile = true
 
 [[files]]
 file = "mods/replay-voice-chat.pw.toml"
-hash = "6315af033ea79056350afd283d975403a3914b748d672318df68e5d6dcbfb568"
+hash = "f447a9d21beccb2ffa1b2a470e8fa3115061410dee6c9d72460dd2c53209670d"
 metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "2ad0eb771d14796ca4a9b2cd0f8637aa1bbe2a54bdc3253dd6428c9aea62d669"
+hash = "f380f729c2bb69e7183333224d4468beb9728b834ee754a5a0a1ff53b9665b18"
 metafile = true
 
 [[files]]
@@ -436,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "889edc675f06b043edb5c8d7a797cba7895161a023711dcf9c4120453d9deead"
+hash = "35d3cdb2869fbce36254a790292e0aab71b04b70f6eb378e03fd09c92c241338"
 metafile = true
 
 [[files]]
@@ -466,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "24ca44f204ce1904fa79e0fab79c101831716b3197a726f71abf6e5d3e621f80"
+hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
 
 [[files]]
@@ -501,12 +496,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "4ccfccbf8f46faf8c97b5199d9db801577bb5b14da23f01d03532f7287825802"
+hash = "ebc1893ddc8d7655d7b01e565508151f340c6ca15a30742b29a38bda1c00ba05"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "057a44637ba9a921d1c773bc1e6d561692501b1b620e6d5e50aef84c961a44ea"
+hash = "5e11f4117ac8601737ecf9a7e244f7b3ef34af23e474cf54fa3fffe4a747062a"
 metafile = true
 
 [[files]]
@@ -526,5 +521,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "19cbb00e9a2d3cd86634e011bb937a47ec8b50577d9ae243ea379cc3307a608d"
+hash = "b0355db2be2750d5dbb8d1373a0522afe40d758896116065a1ce54cb3211bcb8"
 metafile = true
