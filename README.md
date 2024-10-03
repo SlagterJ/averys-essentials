@@ -40,8 +40,6 @@ necessary ask the server moderators as use of this modpack could be reason for t
 
 The following mods are not on Modrinth, so their credits are listed here:
 
-- [Carpet - Gnembon](https://www.curseforge.com/minecraft/mc-mods/carpet)
-- [Carpet Extra - Gnembon](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
 - [Syncmatica - End-Tech (original), Sakura Ryoko (update)](https://github.com/sakura-ryoko/syncmatica)
 
 These mods are included with permission from their authors or licenses. If any author has problems with me
