@@ -10,6 +10,7 @@ darknessEffectScale:0.0
 narratorHotkey:false
 gamma:1.0
 maxFps:260
+simulationDistance:8
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:glass_pane_culling_fix","continuity:default","file/Fast Better Grass.zip","itemswapper:default"]
 incompatibleResourcePacks:[]
 advancedItemTooltips:true
@@ -21,6 +22,36 @@ onboardAccessibility:false
 key_key.socialInteractions:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.x
 key_key.loadToolbarActivator:key.keyboard.z
+key_Toggle Meter:key.keyboard.right.alt
+key_Reset Meter:key.keyboard.keypad.multiply
+key_Load Meter Group:key.keyboard.left.bracket
+key_Save Meter Group:key.keyboard.right.bracket
+key_Pause Meters:key.keyboard.n
+key_Toggle Focus Mode:key.keyboard.backslash
+key_Toggle Tick Marker:key.keyboard.y
+key_Step Backward:key.keyboard.unknown
+key_Step Forward:key.keyboard.unknown
+key_Scroll HUD:key.keyboard.keypad.subtract
+key_Toggle HUD:key.keyboard.r
+key_Open Multimeter Screen:key.keyboard.g
+key_Open Meter Controls:key.keyboard.i
+key_Open Options Menu:key.keyboard.o
+key_View Tick Phases:key.keyboard.home
+key_Print Logs To File:key.keyboard.p
+key_Toggle 'powered':key.keyboard.unknown
+key_Toggle 'active':key.keyboard.unknown
+key_Toggle 'moved':key.keyboard.unknown
+key_Toggle 'power_change':key.keyboard.unknown
+key_Toggle 'random_tick':key.keyboard.unknown
+key_Toggle 'scheduled_tick':key.keyboard.unknown
+key_Toggle 'block_event':key.keyboard.unknown
+key_Toggle 'entity_tick':key.keyboard.unknown
+key_Toggle 'block_entity_tick':key.keyboard.unknown
+key_Toggle 'block_update':key.keyboard.unknown
+key_Toggle 'comparator_update':key.keyboard.unknown
+key_Toggle 'shape_update':key.keyboard.unknown
+key_Toggle 'observer_update':key.keyboard.unknown
+key_Toggle 'interact_block':key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.unknown
