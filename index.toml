@@ -70,7 +70,7 @@ hash = "c01659d942f7fd23bbc78d9a2f352e9ce586d9c3fd40cbf59b76fcaed1af9a48"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "cc80c2f6d602aca10e0766ea484bdc8769cc1f9a8d29a2f700c6bc1e934e39e4"
+hash = "408d9e65c926b3bb3000a2932779f794d1ea7fef623e9895403808795d73e424"
 
 [[files]]
 file = "g4mespeed/cache/hotkeys.cfg"
@@ -334,6 +334,11 @@ metafile = true
 [[files]]
 file = "mods/litematica-printer.pw.toml"
 hash = "1f34148930dbd075a26fcc4caca1654cde3aaa8dea8f1484461c606f5b7f7eef"
+metafile = true
+
+[[files]]
+file = "mods/litematica-server-paster.pw.toml"
+hash = "622d84af28f7f9edde4b3cceb1242a43dfaa26a0f64edb617bac2f5871ad752a"
 metafile = true
 
 [[files]]
