@@ -38,7 +38,7 @@ hash = "c9b7c90236ae7a0b0f2970ecf99f78668ccf355b5c7d50a2c6ba61fa5e74f144"
 
 [[files]]
 file = "config/yosbr/config/redstone_multimeter/hotkeys.txt"
-hash = "66f713a2158913c87b19d4c0c70e60f710053337dda2bbd59f71e197e9a866df"
+hash = "74cdd1ac9f309755869ad89f547c34cd15124db625af38e4ca9372fdeee8dfaf"
 
 [[files]]
 file = "config/yosbr/config/redstone_multimeter/options.txt"
@@ -70,7 +70,7 @@ hash = "c01659d942f7fd23bbc78d9a2f352e9ce586d9c3fd40cbf59b76fcaed1af9a48"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f5f9836cb71149c7df6093ed019148aac1ee9f30b24555ae6653e99f73d91ad6"
+hash = "cc80c2f6d602aca10e0766ea484bdc8769cc1f9a8d29a2f700c6bc1e934e39e4"
 
 [[files]]
 file = "g4mespeed/cache/hotkeys.cfg"
