@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "fea164dda1332d54afd1365311ba0a548fb11a475a6490026a1f00a7aa70400d"
+hash = "ba03b1fd495632d8f89f808b0fe60ad1c7ba0b564131b4b258c4df04baf035da"
 metafile = true
 
 [[files]]
@@ -322,13 +322,18 @@ hash = "d6d1005d5a1128932aa93e46678032ca79bddcb3b490418b29943f829a6d9802"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "e0ebadb3c6bb667343d88398b441785f30171f3b4b54d4b6f194373cfaf41549"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "fd77358f512f332ee2113e5fd9d8929ff9fc5952c78f3693c98e27b0de77fef9"
 metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "87d16fb355306f86a437eaeb3b3674ec7b56f72ac90ee71300772f4920fe1b10"
+hash = "17be680813232e14a4372b0f454b2319affe851106ee15431b18dff9ea8b3af7"
 metafile = true
 
 [[files]]
@@ -388,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
+hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
 metafile = true
 
 [[files]]
@@ -543,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "ccca460e9a913f72082abaa7ce0347f076d9ad4b95a0d336bde5a470c7607fd9"
+hash = "6ffb1564ae98f05438383101dfc0dcb881f47b208b17819d2795edc9e054ea8b"
 metafile = true
 
 [[files]]
@@ -573,5 +578,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "39b9cfd7a245df1da2d93c2a9700f13e3387c63377f76ce1c3ff1996e2378aa0"
+hash = "3bce452c7c4111016d248ef8fcc14f38b94d56936578e0f1bc305388f651511b"
 metafile = true
