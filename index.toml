@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e20ee018464c32627cb3167dac6adf5649c096c943e5ce8aa13cd379135661db"
+hash = "14d029327cc236a0b107c2a0db42248170543f78445ee40cbab3a11d1c75d54c"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
+hash = "4f98c68b1de3837e8e7c519dfffc8c2b312768c69f804540334cc3f20714f7f6"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c24fcd33ecd783569879dbe9ecb8cdd1dcc7e00c1f40cda0271100255e155162"
+hash = "3b4802b8a6452541451892adfaede3dab9f03587b3cbd0e9e3e5d9c28cf9281c"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "ebc1893ddc8d7655d7b01e565508151f340c6ca15a30742b29a38bda1c00ba05"
+hash = "4688503bb0baa78816f721195ee9cf75b22c07416e0e9037ff235420194a4a6a"
 metafile = true
 
 [[files]]
